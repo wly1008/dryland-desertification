@@ -1,0 +1,157 @@
+{
+  "Table2": {
+    "caption": "Table 2. Fixed indicator weights for the DSI with and without NPV.",
+    "headers": [
+      "Indicator",
+      "With NPV",
+      "Without NPV"
+    ],
+    "notes": []
+  },
+  "TableS1": {
+    "caption": "Table S1. Indicator weights of the DSI with and without NPV under alternative weighting configurations.",
+    "headers": [
+      "Configuration",
+      "DSI version",
+      "Albedo\nproxy",
+      "SMI",
+      "TGSI",
+      "Wet",
+      "LST",
+      "PV",
+      "NPV"
+    ],
+    "notes": [
+      "G is the number of equal-width bins used to estimate the entropy weights (Eqs. 10–12); the weights are applied to continuous normalized indicators (Eq. 13). Weights without NPV are renormalized from those with NPV (Eq. 14). The main configuration (G = 15) corresponds to Table 2 in the main text. SMI, salinization monitoring index; TGSI, topsoil grain size index; Wet, tasselled-cap wetness; LST, land surface temperature."
+    ]
+  },
+  "TableS2a": {
+    "caption": "Table S2a. Sensitivity of 2001–2021 DSI trend classes to the weighting configuration.",
+    "headers": [
+      "Configuration",
+      "Significant\nrecovery (%)",
+      "No significant\ntrend (%)",
+      "Significant\ndegradation (%)",
+      "Class agreement\nwith G = 15 (%)"
+    ],
+    "notes": [
+      "Trends are OLS slopes of the non-growing-season DSI classified at a nominal two-sided P < 0.05; recovery and degradation denote significant DSI decreases and increases. Percentages are area-weighted by cos(latitude), as in Fig. 7, and share the same denominator across configurations. Class agreement is the area fraction assigned to the same trend class as in the main configuration."
+    ]
+  },
+  "TableS2b": {
+    "caption": "Table S2b. Sensitivity of the paired with- and without-NPV contrast to the weighting configuration, 2004–2019.",
+    "headers": [
+      "Configuration",
+      "Mean ΔDSI",
+      "Area with\nDSI increase (%)",
+      "Trend-class\nchange (%)",
+      "Direct\nreversal (%)"
+    ],
+    "notes": [
+      "ΔDSI = DSI with NPV − DSI without NPV, averaged over the 16 seasons (Eq. 22). Mean ΔDSI and area fractions use WGS84 ellipsoidal pixel-area weights; denominators are the total paired area (454,755 pixels valid in all 16 seasons). Trend-class change includes any transition among significant degradation, no significant trend and significant recovery; direct reversal is the subset switching between significant degradation and significant recovery."
+    ]
+  },
+  "TableS2c": {
+    "caption": "Table S2c. Direction-aligned correlation (r*) between DSI trends and SDG 15.3.1 indicators under alternative weighting configurations, 2004–2019.",
+    "headers": [
+      "External\nreference",
+      "Configuration",
+      "Without NPV\nr*",
+      "With NPV\nr*",
+      "Δr*",
+      "95% CI\nlower",
+      "95% CI\nupper"
+    ],
+    "notes": [
+      "r* is the Pearson correlation between the DSI trend and the sign-reversed scaled SDG sum (Eq. 19); positive values indicate agreement in degradation direction. Δr* = r* with NPV − r* without NPV. 95% CIs are from a paired spatial-block bootstrap (411 occupied 5° blocks, 1,999 resamples) on 420,238 common pixels; all configurations share the same block draws. Bold Δ values indicate 95% CIs that exclude zero."
+    ]
+  },
+  "TableS2d": {
+    "caption": "Table S2d. Balanced agreement (BA) between DSI trend classes and SDG 15.3.1 classes under alternative weighting configurations, 2004–2019.",
+    "headers": [
+      "External\nreference",
+      "Configuration",
+      "Without NPV\nBA (%)",
+      "With NPV\nBA (%)",
+      "ΔBA\n(pp)",
+      "95% CI\nlower (pp)",
+      "95% CI\nupper (pp)"
+    ],
+    "notes": [
+      "BA is the mean recall across the three reference classes (Eq. 20); its random expectation is 33.33%. ΔBA = BA with NPV − BA without NPV. Bootstrap settings as in Table S2c. Bold Δ values indicate 95% CIs that exclude zero."
+    ]
+  },
+  "TableS3a": {
+    "caption": "Table S3a. Trend classes of DSI and fractional cover components under OLS and Sen–MK–BH, 2001–2021.",
+    "headers": [
+      "Variable",
+      "Method",
+      "Significant\ndecrease (%)",
+      "NS (%)",
+      "Significant\nincrease (%)",
+      "Class agreement\nwith OLS (%)",
+      "Direction agreement\nwith OLS (%)"
+    ],
+    "notes": [
+      "OLS: nominal two-sided P < 0.05. Sen–MK–BH: Theil–Sen slope, two-sided Mann–Kendall test with tie and continuity corrections, and Benjamini–Hochberg-adjusted P < 0.05 over the full analysis domain. NS denotes no significant signed trend and includes zero Sen slopes. Class agreement: same trend class as OLS; direction agreement: same slope sign as OLS. DSI areas are weighted by cos(latitude), as in Fig. 7; PV, NPV and BS areas by WGS84 pixel area. For DSI, a decrease denotes recovery and an increase denotes degradation."
+    ]
+  },
+  "TableS3b": {
+    "caption": "Table S3b. Paired with- and without-NPV contrast under OLS and Sen–MK–BH, 2004–2019.",
+    "headers": [
+      "Method",
+      "Mean ΔDSI",
+      "Trend-class\nchange (%)",
+      "Direct\nreversal (%)",
+      "With-NPV class\nagreement with OLS (%)",
+      "Without-NPV class\nagreement with OLS (%)"
+    ],
+    "notes": [
+      "ΔDSI = DSI with NPV − DSI without NPV; it does not depend on the trend method and is therefore identical for both rows. Mean ΔDSI and area fractions use WGS84 pixel-area weights and refer to the total paired area. Trend-class change and direct reversal are defined as in Table S2b. Class agreement compares the Sen–MK–BH classification of each DSI version with its OLS classification."
+    ]
+  },
+  "TableS3c": {
+    "caption": "Table S3c. Direction-aligned correlation (r*) between DSI trends and SDG 15.3.1 indicators under OLS and Sen–MK–BH, 2004–2019.",
+    "headers": [
+      "External\nreference",
+      "Method",
+      "Without NPV\nr*",
+      "With NPV\nr*",
+      "Δr*",
+      "95% CI\nlower",
+      "95% CI\nupper"
+    ],
+    "notes": [
+      "Definitions and bootstrap settings as in Table S2c (5° blocks, 1,999 resamples, 420,238 equally weighted pixels). Bold Δ values indicate 95% CIs that exclude zero."
+    ]
+  },
+  "TableS3d": {
+    "caption": "Table S3d. Balanced agreement (BA) between DSI trend classes and SDG 15.3.1 classes under OLS and Sen–MK–BH, 2004–2019.",
+    "headers": [
+      "External\nreference",
+      "Method",
+      "Without NPV\nBA (%)",
+      "With NPV\nBA (%)",
+      "ΔBA\n(pp)",
+      "95% CI\nlower (pp)",
+      "95% CI\nupper (pp)"
+    ],
+    "notes": [
+      "Definitions and bootstrap settings as in Table S2d. The lower BA under Sen–MK–BH reflects the larger share of pixels without a significant trend. Bold Δ values indicate 95% CIs that exclude zero."
+    ]
+  },
+  "TableS3e": {
+    "caption": "Table S3e. Area and DSI responses of the eight focal cover-change pathways under OLS and Sen–MK–BH, 2001–2021.",
+    "headers": [
+      "Pathway",
+      "PV / NPV / BS",
+      "Method",
+      "Area of joint\ndomain (%)",
+      "Median DSI slope\n(10⁻³ yr⁻¹)",
+      "DSI increase\nwithin pathway (%)"
+    ],
+    "notes": [
+      "Pathway codes follow Eq. 25 of the main text; ↓, significant decrease; NS, no significant trend; ↑, significant increase. The six most extensive pathways (C14, C15, C17, C13, C23, C11) and the most extensive opposing PV–NPV pathways (C19, C09) follow Fig. 10. Pathways are reclassified under each method, so their membership differs. Areas and medians use WGS84 pixel-area weights. DSI increase denotes a slope > 0 irrespective of significance."
+    ]
+  }
+}

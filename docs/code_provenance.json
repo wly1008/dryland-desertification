@@ -1,0 +1,290 @@
+[
+  {
+    "file": "study_workflow/01_upstream_reference/code/build_reference_vrts.py",
+    "source_id": "SRC0276"
+  },
+  {
+    "file": "study_workflow/01_upstream_reference/code/index_calculation/calc_all_indices.py",
+    "source_id": "SRC0277"
+  },
+  {
+    "file": "study_workflow/01_upstream_reference/code/index_calculation/get_fixed_bounds.py",
+    "source_id": "SRC0278"
+  },
+  {
+    "file": "study_workflow/01_upstream_reference/code/index_calculation/normalization_fixed_bounds.py",
+    "source_id": "SRC0279"
+  },
+  {
+    "file": "study_workflow/01_upstream_reference/code/index_calculation/raster_percentile_stats.py",
+    "source_id": "SRC0280"
+  },
+  {
+    "file": "study_workflow/01_upstream_reference/code/resample_to_0p1/01_resample_MODIS_to_0.1deg.py",
+    "source_id": "SRC0281"
+  },
+  {
+    "file": "study_workflow/01_upstream_reference/code/resample_to_0p1/02_resample_RS_indices_to_0.1deg_INT16.py",
+    "source_id": "SRC0282"
+  },
+  {
+    "file": "study_workflow/01_upstream_reference/code/resample_to_0p1/03_resample_FVC_components_to_0.1deg_INT16.py",
+    "source_id": "SRC0283"
+  },
+  {
+    "file": "study_workflow/01_upstream_reference/code/resample_to_0p1/08_resample_SDG_sum_to_0.1deg.py",
+    "source_id": "SRC0284"
+  },
+  {
+    "file": "study_workflow/01_upstream_reference/code/resample_to_0p1/align_raster.py",
+    "source_id": "SRC0285"
+  },
+  {
+    "file": "study_workflow/01_upstream_reference/statistics/Albedo_stats.xlsx",
+    "source_id": "SRC0612"
+  },
+  {
+    "file": "study_workflow/01_upstream_reference/statistics/DFI_stats.xlsx",
+    "source_id": "SRC0613"
+  },
+  {
+    "file": "study_workflow/01_upstream_reference/statistics/LST_stats.xlsx",
+    "source_id": "SRC0614"
+  },
+  {
+    "file": "study_workflow/01_upstream_reference/statistics/MSAVI_stats.xlsx",
+    "source_id": "SRC0615"
+  },
+  {
+    "file": "study_workflow/01_upstream_reference/statistics/SMI_stats.xlsx",
+    "source_id": "SRC0616"
+  },
+  {
+    "file": "study_workflow/01_upstream_reference/statistics/TGSI_stats.xlsx",
+    "source_id": "SRC0617"
+  },
+  {
+    "file": "study_workflow/01_upstream_reference/statistics/Wet_stats.xlsx",
+    "source_id": "SRC0618"
+  },
+  {
+    "file": "study_workflow/02_preprocessing/code/auxiliary_alignment/align_modis_lulc_to_0p1.py",
+    "source_id": "SRC0286"
+  },
+  {
+    "file": "study_workflow/02_preprocessing/code/auxiliary_alignment/prepare_study_mask.py",
+    "source_id": "SRC0287"
+  },
+  {
+    "file": "study_workflow/02_preprocessing/code/auxiliary_alignment/reclassify_align_modis_lulc_to_0p1.py",
+    "source_id": "SRC0288"
+  },
+  {
+    "file": "study_workflow/02_preprocessing/code/component_direction/01normalize_PV_NPV_direction.py",
+    "source_id": "SRC0289"
+  },
+  {
+    "file": "study_workflow/02_preprocessing/code/seasonal_aggregation/05calc_period_means.py",
+    "source_id": "SRC0290"
+  },
+  {
+    "file": "study_workflow/03_analysis/01_dsi/code/00run_pipeline.py",
+    "source_id": "SRC0291"
+  },
+  {
+    "file": "study_workflow/03_analysis/01_dsi/code/02data_quality.py",
+    "source_id": "SRC0292"
+  },
+  {
+    "file": "study_workflow/03_analysis/01_dsi/code/03knowledge_granulation.py",
+    "source_id": "SRC0293"
+  },
+  {
+    "file": "study_workflow/03_analysis/01_dsi/code/04valid_mask.py",
+    "source_id": "SRC0294"
+  },
+  {
+    "file": "study_workflow/03_analysis/01_dsi/code/05class_statistics.py",
+    "source_id": "SRC0295"
+  },
+  {
+    "file": "study_workflow/03_analysis/01_dsi/code/06entropy_weight.py",
+    "source_id": "SRC0296"
+  },
+  {
+    "file": "study_workflow/03_analysis/01_dsi/code/07calculate_DI.py",
+    "source_id": "SRC0297"
+  },
+  {
+    "file": "study_workflow/03_analysis/01_dsi/code/08DI_quality.py",
+    "source_id": "SRC0298"
+  },
+  {
+    "file": "study_workflow/03_analysis/01_dsi/code/config.py",
+    "source_id": "SRC0299"
+  },
+  {
+    "file": "study_workflow/03_analysis/02_trends/code/compute_ols_trends.py",
+    "source_id": "SRC0300"
+  },
+  {
+    "file": "study_workflow/03_analysis/03_sdg_comparison/code/03a_dsi_sdg_bivariate_moran_compute_direct_dsi.py",
+    "source_id": "SRC0301"
+  },
+  {
+    "file": "study_workflow/03_analysis/03_sdg_comparison/code/03c_dsi_sdg_global_bivariate_moran_table.py",
+    "source_id": "SRC0302"
+  },
+  {
+    "file": "study_workflow/03_analysis/04_npv_ablation/code/02_compute_figure9_npv_trend_effect.py",
+    "source_id": "SRC0303"
+  },
+  {
+    "file": "study_workflow/03_analysis/05_cover_combinations/code/07_compute_fvc_combinations.py",
+    "source_id": "SRC0304"
+  },
+  {
+    "file": "study_workflow/03_analysis/05_cover_combinations/code/08_compute_main_dsi_response.py",
+    "source_id": "SRC0305"
+  },
+  {
+    "file": "study_workflow/03_analysis/06_land_transitions/code/01_compute_lucc_dsi.py",
+    "source_id": "SRC0306"
+  },
+  {
+    "file": "study_workflow/03_analysis/07_sensitivity/code/trend_robustness/03_compute_trend_D.py",
+    "source_id": "SRC0619"
+  },
+  {
+    "file": "study_workflow/03_analysis/07_sensitivity/code/trend_robustness/test_trend_numerics.py",
+    "source_id": "SRC0620"
+  },
+  {
+    "file": "study_workflow/03_analysis/07_sensitivity/code/trend_robustness/trend_config.py",
+    "source_id": "SRC0621"
+  },
+  {
+    "file": "study_workflow/03_analysis/07_sensitivity/code/trend_robustness/trend_numeric.py",
+    "source_id": "SRC0622"
+  },
+  {
+    "file": "study_workflow/03_analysis/07_sensitivity/code/weights/00run_pipeline.py",
+    "source_id": "SRC0623"
+  },
+  {
+    "file": "study_workflow/03_analysis/07_sensitivity/code/weights/01_weights.py",
+    "source_id": "SRC0624"
+  },
+  {
+    "file": "study_workflow/03_analysis/07_sensitivity/code/weights/02_dsi.py",
+    "source_id": "SRC0625"
+  },
+  {
+    "file": "study_workflow/03_analysis/07_sensitivity/code/weights/03_evaluate.py",
+    "source_id": "SRC0626"
+  },
+  {
+    "file": "study_workflow/03_analysis/07_sensitivity/code/weights/04_report.py",
+    "source_id": "SRC0627"
+  },
+  {
+    "file": "study_workflow/03_analysis/07_sensitivity/code/weights/common.py",
+    "source_id": "SRC0628"
+  },
+  {
+    "file": "study_workflow/03_analysis/07_sensitivity/code/weights/config.py",
+    "source_id": "SRC0629"
+  },
+  {
+    "file": "study_workflow/03_analysis/07_sensitivity/code/weights/test_numerics.py",
+    "source_id": "SRC0630"
+  },
+  {
+    "file": "study_workflow/04_plotting/code/cover_combinations/09_plot_fvc_dsi_relationship.py",
+    "source_id": "SRC0307"
+  },
+  {
+    "file": "study_workflow/04_plotting/code/land_transitions/04_plot_figure12_network.py",
+    "source_id": "SRC0308"
+  },
+  {
+    "file": "study_workflow/04_plotting/code/land_transitions/05_export_figure.py",
+    "source_id": "SRC0309"
+  },
+  {
+    "file": "study_workflow/04_plotting/code/land_transitions/06_plot_publication_figures.py",
+    "source_id": "SRC0310"
+  },
+  {
+    "file": "study_workflow/04_plotting/code/main_tables/02_build_table2.py",
+    "source_id": "SRC0311"
+  },
+  {
+    "file": "study_workflow/04_plotting/code/npv_ablation/01_figure8_npv_state_effect.py",
+    "source_id": "SRC0312"
+  },
+  {
+    "file": "study_workflow/04_plotting/code/npv_ablation/03_plot_figure9_npv_trend_effect.py",
+    "source_id": "SRC0313"
+  },
+  {
+    "file": "study_workflow/04_plotting/code/sdg_comparison/01_dsi_sdg_density_regression.py",
+    "source_id": "SRC0314"
+  },
+  {
+    "file": "study_workflow/04_plotting/code/sdg_comparison/02_sdg_class_dsi_violin.py",
+    "source_id": "SRC0315"
+  },
+  {
+    "file": "study_workflow/04_plotting/code/sdg_comparison/03_dsi_sdg_bivariate_lisa.py",
+    "source_id": "SRC0316"
+  },
+  {
+    "file": "study_workflow/04_plotting/code/spacetime/04_plot_DI_trend_and_significance.py",
+    "source_id": "SRC0317"
+  },
+  {
+    "file": "study_workflow/04_plotting/code/spacetime/04_plot_three_year_cartopy_comparison.py",
+    "source_id": "SRC0318"
+  },
+  {
+    "file": "study_workflow/04_plotting/code/study_area/01_plot_study_area.py",
+    "source_id": "SRC0319"
+  },
+  {
+    "file": "study_workflow/04_plotting/code/supplementary/01_build_support_tables.py",
+    "source_id": "SRC0631"
+  },
+  {
+    "file": "study_workflow/04_plotting/code/supplementary/04_build_trend_tables.py",
+    "source_id": "SRC0632"
+  },
+  {
+    "file": "study_workflow/04_plotting/code/supplementary/05_trend_report.py",
+    "source_id": "SRC0633"
+  },
+  {
+    "file": "study_workflow/04_plotting/code/table_utils.py",
+    "source_id": "SRC0320"
+  },
+  {
+    "file": "study_workflow/04_plotting/intermediate/publication_tables/table_layouts.json",
+    "source_id": "SRC0634"
+  },
+  {
+    "file": "study_workflow/07_environment/io_guard.py",
+    "source_id": "SRC0321"
+  },
+  {
+    "file": "study_workflow/07_environment/project_paths.py",
+    "source_id": "SRC0322"
+  },
+  {
+    "file": "study_workflow/07_environment/workflow.py",
+    "source_id": "SRC0323"
+  },
+  {
+    "file": "study_workflow/run_pipeline.py",
+    "source_id": "SRC0324"
+  }
+]

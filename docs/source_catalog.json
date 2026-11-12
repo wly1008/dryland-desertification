@@ -1,0 +1,3205 @@
+[
+  {
+    "source_id": "SRC0001",
+    "role": "DI_2001.tif",
+    "sha256": "16270d6f6f56453ec724199271b62b615a3fc70a68f8e566375e721e79746c42"
+  },
+  {
+    "source_id": "SRC0002",
+    "role": "DI_2002.tif",
+    "sha256": "e84b992f7e8e4e30b144df587a37440d683c560efceeb82e8ab97341fc1d2d55"
+  },
+  {
+    "source_id": "SRC0003",
+    "role": "DI_2003.tif",
+    "sha256": "7762ef3275111864876cb3306c4d86955598e6d1aac4348e814b702f5b28d09e"
+  },
+  {
+    "source_id": "SRC0004",
+    "role": "DI_2004.tif",
+    "sha256": "2c6881b2fa92190d18ab2fcb593b70a25ffde83f55920e9ea5a0960f4c0ed77b"
+  },
+  {
+    "source_id": "SRC0005",
+    "role": "DI_2005.tif",
+    "sha256": "52525bbb046bc78fcfb97b7c0c0910383afee53b94a567ab6ae0297b7263a296"
+  },
+  {
+    "source_id": "SRC0006",
+    "role": "DI_2006.tif",
+    "sha256": "92ef6f7a19e43735d99fe7d6776f298a26d7fcb5cdb67af76622c06e93b52c02"
+  },
+  {
+    "source_id": "SRC0007",
+    "role": "DI_2007.tif",
+    "sha256": "1bdeb8b3397daf9e635415f8ba03e590ad69dfd7a02940ad0c5587900f72fba6"
+  },
+  {
+    "source_id": "SRC0008",
+    "role": "DI_2008.tif",
+    "sha256": "c298b13eb526345751c7c1aff9c672cbe5c9edbe3b121d6e12e049d564e32d19"
+  },
+  {
+    "source_id": "SRC0009",
+    "role": "DI_2009.tif",
+    "sha256": "2d104957f418e30c5129c21be7371298107d659dbe955e6d06082887b8b041aa"
+  },
+  {
+    "source_id": "SRC0010",
+    "role": "DI_2010.tif",
+    "sha256": "2d9ebb0a91e1767ee1f17465d109373e3c3ffe74ff75441718a8bded82180210"
+  },
+  {
+    "source_id": "SRC0011",
+    "role": "DI_2011.tif",
+    "sha256": "9c14ab95b62fc9a9e61a93b125bdc6ac7bc53377a2e3743214fbb9ae8e5b9952"
+  },
+  {
+    "source_id": "SRC0012",
+    "role": "DI_2012.tif",
+    "sha256": "721906ea39a4189dd2e8d02e929c1522f5bac85a315556018ea514e71c3311b4"
+  },
+  {
+    "source_id": "SRC0013",
+    "role": "DI_2013.tif",
+    "sha256": "19d36a85deebe4536cb7dfde7305e63f1f94b321289ca05d3aedeff702e132b9"
+  },
+  {
+    "source_id": "SRC0014",
+    "role": "DI_2014.tif",
+    "sha256": "c2527ca42256484862e424a8ba58733bb0ed54c1581a6d05480b55a7a8133031"
+  },
+  {
+    "source_id": "SRC0015",
+    "role": "DI_2015.tif",
+    "sha256": "a2a6d35bb158fe7768b15327a141cad064a75a98809116c69f45e3f398380c6c"
+  },
+  {
+    "source_id": "SRC0016",
+    "role": "DI_2016.tif",
+    "sha256": "c43afe18865323782b17de4e0ed31e4a3e9d6b3730f069fc56c2d5a155559672"
+  },
+  {
+    "source_id": "SRC0017",
+    "role": "DI_2017.tif",
+    "sha256": "75e3081274c5598a95e595a3a886f353982630149667de3a71f3b8effc447929"
+  },
+  {
+    "source_id": "SRC0018",
+    "role": "DI_2018.tif",
+    "sha256": "46450834cfc49678e85df54903f043dd0c5081cd5462df6f9c7c58783fdef336"
+  },
+  {
+    "source_id": "SRC0019",
+    "role": "DI_2019.tif",
+    "sha256": "b6cde48fc90e5ea7e2c2bb3afc2299e15d2f6e0cbcf3bd1457e05d596f44583b"
+  },
+  {
+    "source_id": "SRC0020",
+    "role": "DI_2020.tif",
+    "sha256": "1902818b4296f6f7ed4c6efbf280e3e0a144d1363539016ecf68c65df0295b96"
+  },
+  {
+    "source_id": "SRC0021",
+    "role": "DI_2021.tif",
+    "sha256": "ae1f4a406fac7b438cc4b84b6aaba0421776cab7216adfb7e2fff811c19b225c"
+  },
+  {
+    "source_id": "SRC0022",
+    "role": "DI_2001.tif",
+    "sha256": "c267c6809bc455f2434588ca937c43765c40e0cb96bc3141112c9adf7fe9f489"
+  },
+  {
+    "source_id": "SRC0023",
+    "role": "DI_2002.tif",
+    "sha256": "b5f069eb7329d084ef8b66b11c995db1d5df65d89a091ac3258f538d6b795d2e"
+  },
+  {
+    "source_id": "SRC0024",
+    "role": "DI_2003.tif",
+    "sha256": "5e17b88031e4675ba50cc214b510fb723d509467a513ea301e3558bd394bb04a"
+  },
+  {
+    "source_id": "SRC0025",
+    "role": "DI_2004.tif",
+    "sha256": "bc2a52440cd24c21479d9cda588d922a35d4052496dcb2f9b8c1be95ba2b4385"
+  },
+  {
+    "source_id": "SRC0026",
+    "role": "DI_2005.tif",
+    "sha256": "4dc8d115d32d75af8fff25b65b34a99b34783155e5b9828fc0a4c09f526b7d6d"
+  },
+  {
+    "source_id": "SRC0027",
+    "role": "DI_2006.tif",
+    "sha256": "05065e9e0c24df03ef85c7f44be08b2193371af15e821c2ab954f7e379c6f5c5"
+  },
+  {
+    "source_id": "SRC0028",
+    "role": "DI_2007.tif",
+    "sha256": "4cb68d8edcb2440626ad2b9ba311fc350f6b2cdd2929a1f2908027cf3da51b96"
+  },
+  {
+    "source_id": "SRC0029",
+    "role": "DI_2008.tif",
+    "sha256": "d74eba08cf39df00039e5352b754a5fc05c77eaf83aa4789271765052b3540f7"
+  },
+  {
+    "source_id": "SRC0030",
+    "role": "DI_2009.tif",
+    "sha256": "ae476f7eed18e4e397f754fd556b320168fc1980361abee8ae2b3919d03da7f4"
+  },
+  {
+    "source_id": "SRC0031",
+    "role": "DI_2010.tif",
+    "sha256": "6b7ee30f4e8c29960ef42ab46b176a4d6666e231168da4a32fdf300d982d5a87"
+  },
+  {
+    "source_id": "SRC0032",
+    "role": "DI_2011.tif",
+    "sha256": "533df325333b3cc32faa4cd9fccd805e0581463e23e0718287ec799a638acf88"
+  },
+  {
+    "source_id": "SRC0033",
+    "role": "DI_2012.tif",
+    "sha256": "891dd069a337a595833aad12af732ecb80338a49cac654065b3089dc9f924410"
+  },
+  {
+    "source_id": "SRC0034",
+    "role": "DI_2013.tif",
+    "sha256": "b60c8b82835a49363f7de1fc7bf104e4c6dfc7146c487d4324ad17c121821069"
+  },
+  {
+    "source_id": "SRC0035",
+    "role": "DI_2014.tif",
+    "sha256": "ee435b4b6df9411bbc5ea20e3131b5ecb4ba4e998b7b43734767fa249060f33f"
+  },
+  {
+    "source_id": "SRC0036",
+    "role": "DI_2015.tif",
+    "sha256": "1d3a93e9068f8bb8aad2bb63573ac1135092e5fd99f1393d2dcd78164da8af6e"
+  },
+  {
+    "source_id": "SRC0037",
+    "role": "DI_2016.tif",
+    "sha256": "a2302c1c244d6e605b676aedb87c1ee319fc127b3fc8cdf86cef88673e2f7449"
+  },
+  {
+    "source_id": "SRC0038",
+    "role": "DI_2017.tif",
+    "sha256": "b1a10c3534f96a94c4898be9e84150d408df6162ad3414184348c8ad286e2a88"
+  },
+  {
+    "source_id": "SRC0039",
+    "role": "DI_2018.tif",
+    "sha256": "6d4967642beb5587e7e6d91250f4d7ad4c70b44cc9c99035de06da515f6a3b43"
+  },
+  {
+    "source_id": "SRC0040",
+    "role": "DI_2019.tif",
+    "sha256": "1bc71c7325925c7316052b67b37a4ac998500ea71850646f50d338c4539c9c85"
+  },
+  {
+    "source_id": "SRC0041",
+    "role": "DI_2020.tif",
+    "sha256": "49a7c56a1dd5e540e88ed8dd981ac576edc313614cf2b84263aff163f646201d"
+  },
+  {
+    "source_id": "SRC0042",
+    "role": "DI_2021.tif",
+    "sha256": "43e81ccb4a7dc168c3b9a2ebf0adf0e985662c0cc1e4febf88c3755f50b43f81"
+  },
+  {
+    "source_id": "SRC0043",
+    "role": "DI_trend_2001_2021.tif",
+    "sha256": "9c4d78e4a1b50803233e83bab8d8121afc4746c502a5f0772a254d7efa8c7d9f"
+  },
+  {
+    "source_id": "SRC0044",
+    "role": "DI_significance_pvalue_2001_2021.tif",
+    "sha256": "24026ad4e8348ca4884ebf208c4ec48753fb9067211eef0faea82f4e4827d6bd"
+  },
+  {
+    "source_id": "SRC0045",
+    "role": "DI_trend_p_lt_0.05_2001_2021.tif",
+    "sha256": "cf02fe0bbc5c898504765d2c0a5d084a048e88ec0c70931158ea98fda335064d"
+  },
+  {
+    "source_id": "SRC0046",
+    "role": "DI_trend_2004_2019.tif",
+    "sha256": "72a2f98076f60876eca739900dbee67be64736c0f977649f7ccc10fdae0b7512"
+  },
+  {
+    "source_id": "SRC0047",
+    "role": "DI_significance_pvalue_2004_2019.tif",
+    "sha256": "2f5494dd4bf48479fb73d66954e1079a2216ab89dfd69a9e3b36815165ddf3a9"
+  },
+  {
+    "source_id": "SRC0048",
+    "role": "DI_trend_p_lt_0.05_2004_2019.tif",
+    "sha256": "79e20a9b8bca2dfe3442f9c481e9b69cf8e6e0fc6d937e254965c434202da3ea"
+  },
+  {
+    "source_id": "SRC0049",
+    "role": "DSI_trend_with_NPV_2004_2019.tif",
+    "sha256": "928c0d8172c71fb19e77dc289ec4689c2699d11028efd559aa92fc7c2b7abda8"
+  },
+  {
+    "source_id": "SRC0050",
+    "role": "DSI_pvalue_with_NPV_2004_2019.tif",
+    "sha256": "30e72407f5f031f7f806872323885a5381d0b69a048e3cde2490e2b4fce5cbee"
+  },
+  {
+    "source_id": "SRC0051",
+    "role": "DSI_class_with_NPV_2004_2019.tif",
+    "sha256": "28ef1f9386397119815c97cd15394e535275077e732d48e5913091679290c4de"
+  },
+  {
+    "source_id": "SRC0052",
+    "role": "DSI_trend_without_NPV_2004_2019.tif",
+    "sha256": "e151f37a14dd2bec9f72e13022d058536686aec0dffa469e7079a7f569e018c4"
+  },
+  {
+    "source_id": "SRC0053",
+    "role": "DSI_pvalue_without_NPV_2004_2019.tif",
+    "sha256": "838adabf7e0c20d9da9bb5438bbf9639c7342f67e6d3c664053177db6eab2a29"
+  },
+  {
+    "source_id": "SRC0054",
+    "role": "DSI_class_without_NPV_2004_2019.tif",
+    "sha256": "b679575585442e3010f859cff205f28f99475c8a16fcf65777f5c4d66876d156"
+  },
+  {
+    "source_id": "SRC0055",
+    "role": "fvc_combination_2001_2021.tif",
+    "sha256": "aaaa7c16a28361cb20a1c65136815c94b37fe75f3b9e568b1060d839ca02d46c"
+  },
+  {
+    "source_id": "SRC0056",
+    "role": "paired_fvc_combination.tif",
+    "sha256": "c9e47fc3b79829ec0300e4e67d826d16efbe00da519386d74f218810d67b73e0"
+  },
+  {
+    "source_id": "SRC0057",
+    "role": "fvc_combinations_all27.csv",
+    "sha256": "f34300ffb70110e9d0b527cc2ab56a26438cf020e256033a63e1a407f8ce66dd"
+  },
+  {
+    "source_id": "SRC0058",
+    "role": "main_dsi_response_all27.csv",
+    "sha256": "5ed7f9636982935d8d268134e24847a3e78b1e8dbbddef1b8c2cf46376d9d13f"
+  },
+  {
+    "source_id": "SRC0059",
+    "role": "class_and_example_timeseries.csv",
+    "sha256": "32da615efb8f23e70dfb2a179825be289dac631626f06f51ceb1df3d5216b42f"
+  },
+  {
+    "source_id": "SRC0060",
+    "role": "main_response_series.npz",
+    "sha256": "466a8507a8e278b4d2436ae097c44554b554ff369b58e6053919d61e8a278834"
+  },
+  {
+    "source_id": "SRC0061",
+    "role": "PV_trend_pp_per_year.tif",
+    "sha256": "bfb076e939d85ffa0c843c6c1d4e1b3b8fb8cee0693c205b0148833971167298"
+  },
+  {
+    "source_id": "SRC0062",
+    "role": "PV_trend_pvalue.tif",
+    "sha256": "3cd8340ef190ba7f0cd0338f8e410ed7daa9b5a50b1ff1990251fac7d6847ab2"
+  },
+  {
+    "source_id": "SRC0063",
+    "role": "NPV_trend_pp_per_year.tif",
+    "sha256": "e2dcacff1bb1b17a248347d12fd2dc5ded3cebe0a2189f0c4d436de3f2f9415a"
+  },
+  {
+    "source_id": "SRC0064",
+    "role": "NPV_trend_pvalue.tif",
+    "sha256": "3596b4c5d37b1cbd226e7a1a7b848e8752c2d48847bd0923b6dfefe9b4924c13"
+  },
+  {
+    "source_id": "SRC0065",
+    "role": "BS_trend_pp_per_year.tif",
+    "sha256": "520035f2a1f0f3cf53963b6abc8f366db6790a33604572628852080ecb65171f"
+  },
+  {
+    "source_id": "SRC0066",
+    "role": "BS_trend_pvalue.tif",
+    "sha256": "0faca3eeda056716a035da57f8062ac8f5ebb6b78c99a8dbcc5c4dbaecade59a"
+  },
+  {
+    "source_id": "SRC0067",
+    "role": "main_DSI_trend_per_year.tif",
+    "sha256": "7da3a073b232c27ee681d61bce6e7bfeb3203232e9d35e43c75da35e9b1239d5"
+  },
+  {
+    "source_id": "SRC0068",
+    "role": "main_DSI_trend_pvalue.tif",
+    "sha256": "75e3164512e918d79d17aaa05bd851550d4049c043ed509c2b96697220f5ffc2"
+  },
+  {
+    "source_id": "SRC0069",
+    "role": "fvc",
+    "sha256": null
+  },
+  {
+    "source_id": "SRC0070",
+    "role": "historical_study_boundary",
+    "sha256": "a7b56f99809f7d57dd8bea569bcba81884ad0560e6cbaa93cb85275ca36f6aa4"
+  },
+  {
+    "source_id": "SRC0071",
+    "role": "PV_2001.tif",
+    "sha256": "308c018815b873d9ae9682775d27ac18b55c24788c349759c16e3d58750da702"
+  },
+  {
+    "source_id": "SRC0072",
+    "role": "NPV_2001.tif",
+    "sha256": "512c700310f48ca0552e38eade8defa19b95a725f99d25176f188684ae48cd45"
+  },
+  {
+    "source_id": "SRC0073",
+    "role": "BS_2001.tif",
+    "sha256": "db506145f56465024bf4994a10c6141e38fea885f1019e01d3bbda1746f85925"
+  },
+  {
+    "source_id": "SRC0074",
+    "role": "PV_2002.tif",
+    "sha256": "e7eaf3ebd1b66f3a9ea85a7a74a0dffba6db670c46e242cf459f2cd9bd716da6"
+  },
+  {
+    "source_id": "SRC0075",
+    "role": "NPV_2002.tif",
+    "sha256": "d366f63c8ab91eeec236da90354205d88cc9624999a8f532e1d116aa16c2f322"
+  },
+  {
+    "source_id": "SRC0076",
+    "role": "BS_2002.tif",
+    "sha256": "43f1394a571158d8be249ca6d8abd32448b345d0a6704e98e266f92305370f42"
+  },
+  {
+    "source_id": "SRC0077",
+    "role": "PV_2003.tif",
+    "sha256": "aae0dc98f7d48477835e0504a5a1c96c28943a9bd7c9d0e862deceea63f2e365"
+  },
+  {
+    "source_id": "SRC0078",
+    "role": "NPV_2003.tif",
+    "sha256": "52f5a840402f4d745b58768d89f36cb628b240666d9cf95fabb6de761f8b083a"
+  },
+  {
+    "source_id": "SRC0079",
+    "role": "BS_2003.tif",
+    "sha256": "8d3ae916da2716895c087acca90018bcb06a733ab976c9581a66d01b757e484a"
+  },
+  {
+    "source_id": "SRC0080",
+    "role": "PV_2004.tif",
+    "sha256": "d838e30653a7e7217fd9f09eff599cdcc5627bd4bb2876ba88b7e7fce15d0c99"
+  },
+  {
+    "source_id": "SRC0081",
+    "role": "NPV_2004.tif",
+    "sha256": "87b323d17cc65b0779fa7e3a3c77c6884bbe8520377a50720335835b12d0a110"
+  },
+  {
+    "source_id": "SRC0082",
+    "role": "BS_2004.tif",
+    "sha256": "d453a6e2afef04d0be70b5c47e39af045e3f1a84c68f497d4613199d98dcfbb2"
+  },
+  {
+    "source_id": "SRC0083",
+    "role": "PV_2005.tif",
+    "sha256": "549617be838b23b272954017505c94f89a4165370d17d4c7b94740f3c812c962"
+  },
+  {
+    "source_id": "SRC0084",
+    "role": "NPV_2005.tif",
+    "sha256": "6b6c35ab4ec7eb6abbb6fe96d3cd9165161146b2aed6e350d06c96a926202e1f"
+  },
+  {
+    "source_id": "SRC0085",
+    "role": "BS_2005.tif",
+    "sha256": "b944a608bbf463ceaaf70af6a2b7463f09f9bb6416a3d79e8c28ae9b943cc34f"
+  },
+  {
+    "source_id": "SRC0086",
+    "role": "PV_2006.tif",
+    "sha256": "6127a3750b3ef7edeb716f2790f194c6c2e0ac365ee53bb1b9f463f4a608883a"
+  },
+  {
+    "source_id": "SRC0087",
+    "role": "NPV_2006.tif",
+    "sha256": "88a653497b2c3c31e2ed0bd7d057752464da4831be4e2d6f7d1989dc96606a05"
+  },
+  {
+    "source_id": "SRC0088",
+    "role": "BS_2006.tif",
+    "sha256": "836485fd59d171bac6451e95b4182c64b86237501f59551d3a794d5debf02a96"
+  },
+  {
+    "source_id": "SRC0089",
+    "role": "PV_2007.tif",
+    "sha256": "6c676d83701145427182c1c73f9eb706b5c0ac0902835096535c7e3bb1c48e54"
+  },
+  {
+    "source_id": "SRC0090",
+    "role": "NPV_2007.tif",
+    "sha256": "7da71b84b120e496a40738f2faa13a5742eeb3b816647b1a9ce3d2cb444f419e"
+  },
+  {
+    "source_id": "SRC0091",
+    "role": "BS_2007.tif",
+    "sha256": "ad1d3b6be0b08f70a6b8b35f25258067cac71039cdcfa0d558d1f33cb146d549"
+  },
+  {
+    "source_id": "SRC0092",
+    "role": "PV_2008.tif",
+    "sha256": "d1ce4227682a6a9cb98b791220875fd8edd661643a85d80da4fedffc6d562441"
+  },
+  {
+    "source_id": "SRC0093",
+    "role": "NPV_2008.tif",
+    "sha256": "c2be406966cf4be16acd90ea995e253a2c89b8a298023c47be7572d844b1e0da"
+  },
+  {
+    "source_id": "SRC0094",
+    "role": "BS_2008.tif",
+    "sha256": "5955b385869f4a92fddb990de77b02a54006af5813cad0cda54c4c7d9dc8040f"
+  },
+  {
+    "source_id": "SRC0095",
+    "role": "PV_2009.tif",
+    "sha256": "b3e8006cb88977e9ff2507d5d9f32b47758c022a7e7d27b7402ad1cc99018ad8"
+  },
+  {
+    "source_id": "SRC0096",
+    "role": "NPV_2009.tif",
+    "sha256": "9f9456cd680e623b36700683f92fe2477f46b01a02be6bb844f73eb41af1363e"
+  },
+  {
+    "source_id": "SRC0097",
+    "role": "BS_2009.tif",
+    "sha256": "504e04bf5b1af971ae4cc7b8c1e9245e0170c96521e2d1b7cfb6e8bbadf76453"
+  },
+  {
+    "source_id": "SRC0098",
+    "role": "PV_2010.tif",
+    "sha256": "94fc99e4c7089609c07b89db84a41ee1c3bfc9fdf9b64c5fe91f30eb79127a41"
+  },
+  {
+    "source_id": "SRC0099",
+    "role": "NPV_2010.tif",
+    "sha256": "c900c81cc652732c55c16f04236f5e4e6f260141d582c4c402f90f73c2b4b028"
+  },
+  {
+    "source_id": "SRC0100",
+    "role": "BS_2010.tif",
+    "sha256": "ff45b7c579562a0d8941b922167e6ae5111e6eeb0a01c8aa3a430b5602f7f8cf"
+  },
+  {
+    "source_id": "SRC0101",
+    "role": "PV_2011.tif",
+    "sha256": "8ed714d7d5351b52f8e94bbc3adc7eebce7092760997626d3744a44d9df6fd8c"
+  },
+  {
+    "source_id": "SRC0102",
+    "role": "NPV_2011.tif",
+    "sha256": "5c151fc2af3913726ce2800ebc2205fd2a6ca1182082f17c67dde5b96864c351"
+  },
+  {
+    "source_id": "SRC0103",
+    "role": "BS_2011.tif",
+    "sha256": "368db41b3a829dda06617d11820b18f0718c49a411c4c8bae3de3947a7b4d2a0"
+  },
+  {
+    "source_id": "SRC0104",
+    "role": "PV_2012.tif",
+    "sha256": "44391856803b22989a957cde42a2c1761f24d47026d245b34c294ae30f309bb5"
+  },
+  {
+    "source_id": "SRC0105",
+    "role": "NPV_2012.tif",
+    "sha256": "709ea5fafe3147876dd263ee67d67f2dfc1a5689dc367b0f699b8390754dd1a1"
+  },
+  {
+    "source_id": "SRC0106",
+    "role": "BS_2012.tif",
+    "sha256": "bf148609e11cf7ceb196f29b0c11fdd046e81b05c1cd015003527fbfc46cb42a"
+  },
+  {
+    "source_id": "SRC0107",
+    "role": "PV_2013.tif",
+    "sha256": "2163b6863a07deb7a75463b0cb9928904b633128870a5c536949fa7874faae63"
+  },
+  {
+    "source_id": "SRC0108",
+    "role": "NPV_2013.tif",
+    "sha256": "212bb440faf249bf3e0412edcc37de7df3985e9fee51117b08077a212012aac9"
+  },
+  {
+    "source_id": "SRC0109",
+    "role": "BS_2013.tif",
+    "sha256": "6ee72be61e51ffa8e1e7aa52140e79f6bc0c64f9a3f281d4c0012e309f20f32d"
+  },
+  {
+    "source_id": "SRC0110",
+    "role": "PV_2014.tif",
+    "sha256": "42c0a02c67ccf75f730674daecbd5cc3cb2556006f61b975c1b5ace9f6d35597"
+  },
+  {
+    "source_id": "SRC0111",
+    "role": "NPV_2014.tif",
+    "sha256": "5ac0c7f9364c60867d4d0e09395b88f061c2e973ef1f6758e87dfdde5863d2b1"
+  },
+  {
+    "source_id": "SRC0112",
+    "role": "BS_2014.tif",
+    "sha256": "b9a7e0309101ec131153875afd5f80e81f24ccaf935541035c284850378fa681"
+  },
+  {
+    "source_id": "SRC0113",
+    "role": "PV_2015.tif",
+    "sha256": "a84369c58d5f783fd6dfbb49e92b8efbf590240050f9f5279948e2ba72ce6273"
+  },
+  {
+    "source_id": "SRC0114",
+    "role": "NPV_2015.tif",
+    "sha256": "a65ee812bbc264294a88f775ca4cfd85234cf8c4b5679222412f714405e2b5bd"
+  },
+  {
+    "source_id": "SRC0115",
+    "role": "BS_2015.tif",
+    "sha256": "139ce8a89c94f826dbd4cef2d9882096edbd4a1e1866c7ca78f40eef1f5a8ad0"
+  },
+  {
+    "source_id": "SRC0116",
+    "role": "PV_2016.tif",
+    "sha256": "eddd55ecfd6f8ac6178d5949d971930dd39c6239391de2946ccb4b412de7b2e9"
+  },
+  {
+    "source_id": "SRC0117",
+    "role": "NPV_2016.tif",
+    "sha256": "7ec6c202c01541d7ec7f0359601a201cf8066a2a29613e7397096398f74bad2f"
+  },
+  {
+    "source_id": "SRC0118",
+    "role": "BS_2016.tif",
+    "sha256": "78966e3ce1f5ca81cb66438c11f32d571ac2ca9364991b7ff720b79ff90eab1a"
+  },
+  {
+    "source_id": "SRC0119",
+    "role": "PV_2017.tif",
+    "sha256": "b988565e54e0bd513f58f4342b6d68ba2ad1cf4790fe70e299b878744e339fbc"
+  },
+  {
+    "source_id": "SRC0120",
+    "role": "NPV_2017.tif",
+    "sha256": "2eb4894718fed2cba96e494a3c5ccf149edbc17289304a5f98b9dd90846115e1"
+  },
+  {
+    "source_id": "SRC0121",
+    "role": "BS_2017.tif",
+    "sha256": "e1858a8e6e027f97848e9d4bfc6a27a5255c962d94e43586f3380adb3bda2d94"
+  },
+  {
+    "source_id": "SRC0122",
+    "role": "PV_2018.tif",
+    "sha256": "a4ad73c872c048fee32ccd01faed52c487b008c4cf950362e03e891d26e282bb"
+  },
+  {
+    "source_id": "SRC0123",
+    "role": "NPV_2018.tif",
+    "sha256": "8214838eab4be1f3e2eb800ba65a970b429332620c57bf36494746c5d3219782"
+  },
+  {
+    "source_id": "SRC0124",
+    "role": "BS_2018.tif",
+    "sha256": "f3fb4b897fc395c6fbf9d33ff37a14ce57402918c99dce354cebfd23a6376a9a"
+  },
+  {
+    "source_id": "SRC0125",
+    "role": "PV_2019.tif",
+    "sha256": "1ed3ddd04947db7b7fb6672ffcec5f91b9d130d5a616834b0c458e7ea9c3664a"
+  },
+  {
+    "source_id": "SRC0126",
+    "role": "NPV_2019.tif",
+    "sha256": "8b3c75cd4f73afbceefce114fcf21887cb1156ac7229b1f4eec9708fe8146c70"
+  },
+  {
+    "source_id": "SRC0127",
+    "role": "BS_2019.tif",
+    "sha256": "9e7e6ab9c85d9ef8bc43c35ef319dc6c08309be3a30bc400f15dd0d2400aff19"
+  },
+  {
+    "source_id": "SRC0128",
+    "role": "PV_2020.tif",
+    "sha256": "ce70c0e6b3854b447c235827927623c5ccc5cb57b57c9476058b0c63b2e95b3b"
+  },
+  {
+    "source_id": "SRC0129",
+    "role": "NPV_2020.tif",
+    "sha256": "f55fac769ccb6f143f30e7bc04e2baa16fb5b7e5dbc1a2e317652c1230d54877"
+  },
+  {
+    "source_id": "SRC0130",
+    "role": "BS_2020.tif",
+    "sha256": "9a222ffefb72a00496ecc71570254d91d80ff4a4b4aa13f3437646cf04832f1c"
+  },
+  {
+    "source_id": "SRC0131",
+    "role": "PV_2021.tif",
+    "sha256": "952b1c653b4843a2deb8faf58fd14bbfaa6e34e6b8b2bee90b518976b852f7cb"
+  },
+  {
+    "source_id": "SRC0132",
+    "role": "NPV_2021.tif",
+    "sha256": "1e1f48ab399502f15306d378f94b3ece7608648e0a19f831310276b2bf48ddee"
+  },
+  {
+    "source_id": "SRC0133",
+    "role": "BS_2021.tif",
+    "sha256": "715a12dc361d97dea7a32168839bd97fa95da71870a7bda90436f11d513eac4c"
+  },
+  {
+    "source_id": "SRC0134",
+    "role": "fvc_combination_summary.json",
+    "sha256": "d4ca2e99fbaa06ff3e6ecb44058e921784d2b455064ebb132ca1220a11f2af1a"
+  },
+  {
+    "source_id": "SRC0135",
+    "role": "02study_period_weights",
+    "sha256": null
+  },
+  {
+    "source_id": "SRC0136",
+    "role": "DI_trend_2001_2021.tif",
+    "sha256": "9c4d78e4a1b50803233e83bab8d8121afc4746c502a5f0772a254d7efa8c7d9f"
+  },
+  {
+    "source_id": "SRC0137",
+    "role": "DI_significance_pvalue_2001_2021.tif",
+    "sha256": "24026ad4e8348ca4884ebf208c4ec48753fb9067211eef0faea82f4e4827d6bd"
+  },
+  {
+    "source_id": "SRC0138",
+    "role": "DI_2001.tif",
+    "sha256": "16270d6f6f56453ec724199271b62b615a3fc70a68f8e566375e721e79746c42"
+  },
+  {
+    "source_id": "SRC0139",
+    "role": "DI_2002.tif",
+    "sha256": "e84b992f7e8e4e30b144df587a37440d683c560efceeb82e8ab97341fc1d2d55"
+  },
+  {
+    "source_id": "SRC0140",
+    "role": "DI_2003.tif",
+    "sha256": "7762ef3275111864876cb3306c4d86955598e6d1aac4348e814b702f5b28d09e"
+  },
+  {
+    "source_id": "SRC0141",
+    "role": "DI_2004.tif",
+    "sha256": "2c6881b2fa92190d18ab2fcb593b70a25ffde83f55920e9ea5a0960f4c0ed77b"
+  },
+  {
+    "source_id": "SRC0142",
+    "role": "DI_2005.tif",
+    "sha256": "52525bbb046bc78fcfb97b7c0c0910383afee53b94a567ab6ae0297b7263a296"
+  },
+  {
+    "source_id": "SRC0143",
+    "role": "DI_2006.tif",
+    "sha256": "92ef6f7a19e43735d99fe7d6776f298a26d7fcb5cdb67af76622c06e93b52c02"
+  },
+  {
+    "source_id": "SRC0144",
+    "role": "DI_2007.tif",
+    "sha256": "1bdeb8b3397daf9e635415f8ba03e590ad69dfd7a02940ad0c5587900f72fba6"
+  },
+  {
+    "source_id": "SRC0145",
+    "role": "DI_2008.tif",
+    "sha256": "c298b13eb526345751c7c1aff9c672cbe5c9edbe3b121d6e12e049d564e32d19"
+  },
+  {
+    "source_id": "SRC0146",
+    "role": "DI_2009.tif",
+    "sha256": "2d104957f418e30c5129c21be7371298107d659dbe955e6d06082887b8b041aa"
+  },
+  {
+    "source_id": "SRC0147",
+    "role": "DI_2010.tif",
+    "sha256": "2d9ebb0a91e1767ee1f17465d109373e3c3ffe74ff75441718a8bded82180210"
+  },
+  {
+    "source_id": "SRC0148",
+    "role": "DI_2011.tif",
+    "sha256": "9c14ab95b62fc9a9e61a93b125bdc6ac7bc53377a2e3743214fbb9ae8e5b9952"
+  },
+  {
+    "source_id": "SRC0149",
+    "role": "DI_2012.tif",
+    "sha256": "721906ea39a4189dd2e8d02e929c1522f5bac85a315556018ea514e71c3311b4"
+  },
+  {
+    "source_id": "SRC0150",
+    "role": "DI_2013.tif",
+    "sha256": "19d36a85deebe4536cb7dfde7305e63f1f94b321289ca05d3aedeff702e132b9"
+  },
+  {
+    "source_id": "SRC0151",
+    "role": "DI_2014.tif",
+    "sha256": "c2527ca42256484862e424a8ba58733bb0ed54c1581a6d05480b55a7a8133031"
+  },
+  {
+    "source_id": "SRC0152",
+    "role": "DI_2015.tif",
+    "sha256": "a2a6d35bb158fe7768b15327a141cad064a75a98809116c69f45e3f398380c6c"
+  },
+  {
+    "source_id": "SRC0153",
+    "role": "DI_2016.tif",
+    "sha256": "c43afe18865323782b17de4e0ed31e4a3e9d6b3730f069fc56c2d5a155559672"
+  },
+  {
+    "source_id": "SRC0154",
+    "role": "DI_2017.tif",
+    "sha256": "75e3081274c5598a95e595a3a886f353982630149667de3a71f3b8effc447929"
+  },
+  {
+    "source_id": "SRC0155",
+    "role": "DI_2018.tif",
+    "sha256": "46450834cfc49678e85df54903f043dd0c5081cd5462df6f9c7c58783fdef336"
+  },
+  {
+    "source_id": "SRC0156",
+    "role": "DI_2019.tif",
+    "sha256": "b6cde48fc90e5ea7e2c2bb3afc2299e15d2f6e0cbcf3bd1457e05d596f44583b"
+  },
+  {
+    "source_id": "SRC0157",
+    "role": "DI_2020.tif",
+    "sha256": "1902818b4296f6f7ed4c6efbf280e3e0a144d1363539016ecf68c65df0295b96"
+  },
+  {
+    "source_id": "SRC0158",
+    "role": "DI_2021.tif",
+    "sha256": "ae1f4a406fac7b438cc4b84b6aaba0421776cab7216adfb7e2fff811c19b225c"
+  },
+  {
+    "source_id": "SRC0159",
+    "role": "main_dsi_response_summary.json",
+    "sha256": "a3b731f208c1ba0a20719030349f616846f6bfd06e4f3d174b62c0a956a232ff"
+  },
+  {
+    "source_id": "SRC0160",
+    "role": "origin_majority.tif",
+    "sha256": "51a1d2678a8aedcb894510c302d160daf090584b2c2189cd560ef38e0a51a3d4"
+  },
+  {
+    "source_id": "SRC0161",
+    "role": "destination_majority.tif",
+    "sha256": "170da458ac0ac497f2d2461fd196072cad61163dda8fa50bcaf171c93584a6cf"
+  },
+  {
+    "source_id": "SRC0162",
+    "role": "transition_classes.tif",
+    "sha256": "4494261cfcd9dcea5ae2beeda087b6e1a23fad06597cec859b834b8a08e830bc"
+  },
+  {
+    "source_id": "SRC0163",
+    "role": "transition_statistics.csv",
+    "sha256": "ceb8f76e03dd4b33f7f73d78fc558f335af580789198b6107fdffefb929e3925"
+  },
+  {
+    "source_id": "SRC0164",
+    "role": "transition_FVC_statistics.csv",
+    "sha256": "a30ddf927435dc1f83a9451c766c60f83ef90cf5ae8e562e9025b17b16dee49d"
+  },
+  {
+    "source_id": "SRC0165",
+    "role": "FVC_combination_legend.csv",
+    "sha256": "a1f39d00743e4eac56312ffff9060bbeb8d74eaa5384a7e759f85c4a672d7fdc"
+  },
+  {
+    "source_id": "SRC0166",
+    "role": "lucc_dsi_statistics.npz",
+    "sha256": "a79214ae363ea121c405758e17f9094a02715794a4c8afa9089d434fb18f4924"
+  },
+  {
+    "source_id": "SRC0167",
+    "role": "data",
+    "sha256": null
+  },
+  {
+    "source_id": "SRC0168",
+    "role": "paired_pixel_statistics.npz",
+    "sha256": "9dea10c28bc5aaf01cb6a1b93bb71b80344c4b5c4615a904bf45dff6b9255ee8"
+  },
+  {
+    "source_id": "SRC0169",
+    "role": "fvc_pixel_statistics.npz",
+    "sha256": "5334caacac1fc6fd28da489bc87e1f951562784ac8985d7d52a43302b1fb3ab9"
+  },
+  {
+    "source_id": "SRC0170",
+    "role": "MCD12C1_LULC_CLASS_2001.tif",
+    "sha256": "cd2a83bda57e25746338eed796f2f7b387afd1c681552143d5570d3c11809cb0"
+  },
+  {
+    "source_id": "SRC0171",
+    "role": "MCD12C1_LULC_CLASS_2002.tif",
+    "sha256": "254fa345bedc67c2290a6f3eada14d918831407a392b960f1ac42310786ea555"
+  },
+  {
+    "source_id": "SRC0172",
+    "role": "MCD12C1_LULC_CLASS_2003.tif",
+    "sha256": "2f5e9c1ede4fea5a9c78b78316480ab9db3d5b38a9ba5820522e9d6dc9d87cb5"
+  },
+  {
+    "source_id": "SRC0173",
+    "role": "MCD12C1_LULC_CLASS_2004.tif",
+    "sha256": "b2fcd5d8f0ee6aa66712bb205365636dcc1159dc39c02ce63d5df6969d5fb6ab"
+  },
+  {
+    "source_id": "SRC0174",
+    "role": "MCD12C1_LULC_CLASS_2005.tif",
+    "sha256": "82e080630bfa1832ff868293c785bd3d5385fa246843e1658b6cb89fa81ee94b"
+  },
+  {
+    "source_id": "SRC0175",
+    "role": "MCD12C1_LULC_CLASS_2006.tif",
+    "sha256": "96609030927f1711ea3ded5f18803454424931267fbcd067f52a0ffaffc2bac6"
+  },
+  {
+    "source_id": "SRC0176",
+    "role": "MCD12C1_LULC_CLASS_2007.tif",
+    "sha256": "ba4a570ec90f65bef16a89881978b7e3ae8f7cdb168b281be0e1abc89d4c3372"
+  },
+  {
+    "source_id": "SRC0177",
+    "role": "MCD12C1_LULC_CLASS_2008.tif",
+    "sha256": "2d775e54d22fb6e65a8fe8eaeb3dcd0a28c8d24ce61453c1eb7ba5f1b761e0ff"
+  },
+  {
+    "source_id": "SRC0178",
+    "role": "MCD12C1_LULC_CLASS_2009.tif",
+    "sha256": "f57c97b963bb8a664784ef71b107f2f189abc31d24dd4e0e3b7e1fb566ab74c2"
+  },
+  {
+    "source_id": "SRC0179",
+    "role": "MCD12C1_LULC_CLASS_2010.tif",
+    "sha256": "4e9695d42c1fa0c953ab37bdff92270809f6296edd12637aae8e9024fa5ff77c"
+  },
+  {
+    "source_id": "SRC0180",
+    "role": "MCD12C1_LULC_CLASS_2011.tif",
+    "sha256": "a6a560405f336c5f58b6031a7d2a6ebb5db827e9f22875292beedce9ec979847"
+  },
+  {
+    "source_id": "SRC0181",
+    "role": "MCD12C1_LULC_CLASS_2012.tif",
+    "sha256": "3a7aba650e5c729d6bd121ceda9754a07d5266e0b45b2409686df021f5331bdd"
+  },
+  {
+    "source_id": "SRC0182",
+    "role": "MCD12C1_LULC_CLASS_2013.tif",
+    "sha256": "cc45cf089838853ae3212e7d78a64c8790e37d6d0fb534ef068e6fe3159ebe28"
+  },
+  {
+    "source_id": "SRC0183",
+    "role": "MCD12C1_LULC_CLASS_2014.tif",
+    "sha256": "c432215e4ca2b43a22658be45d67b69edd226d52ff520b8b964186f0ed1346ad"
+  },
+  {
+    "source_id": "SRC0184",
+    "role": "MCD12C1_LULC_CLASS_2015.tif",
+    "sha256": "673f563264bc2bc0b29ad0546ba5664004693a8adfac33e669195eb2627f7062"
+  },
+  {
+    "source_id": "SRC0185",
+    "role": "MCD12C1_LULC_CLASS_2016.tif",
+    "sha256": "950b3d7f12147c448d3fcc0e5209bba608fcad3c33673c27baf16590893f1960"
+  },
+  {
+    "source_id": "SRC0186",
+    "role": "MCD12C1_LULC_CLASS_2017.tif",
+    "sha256": "84172b6cad82d3cfa171936800f67a27d1e4682ab674b2d7e9c34413336e2640"
+  },
+  {
+    "source_id": "SRC0187",
+    "role": "MCD12C1_LULC_CLASS_2018.tif",
+    "sha256": "a965f4e4486be218915712c469426deec55fa10821029516355ffd8820042ce1"
+  },
+  {
+    "source_id": "SRC0188",
+    "role": "MCD12C1_LULC_CLASS_2019.tif",
+    "sha256": "c3936adb35397cd066c530ec31052e0fc77fad3d22a956a6de84f7085ad4717f"
+  },
+  {
+    "source_id": "SRC0189",
+    "role": "MCD12C1_LULC_CLASS_2020.tif",
+    "sha256": "1cbd3bdcfcb619a0d1e656798d0809479c5005f694cd25bcc4066660692cbb51"
+  },
+  {
+    "source_id": "SRC0190",
+    "role": "MCD12C1_LULC_CLASS_2021.tif",
+    "sha256": "39e6f36f6b1db9005edceeb29912f454ae0a97c247099fa6ae9e42b3caf22409"
+  },
+  {
+    "source_id": "SRC0191",
+    "role": "analysis_summary.json",
+    "sha256": "0896f96871e5dc4f5eaa6a7d678f307ff15ec4c1adde0921de35db41a5893bca"
+  },
+  {
+    "source_id": "SRC0192",
+    "role": "DSI_mean_difference_with_minus_without_NPV_2004_2019.tif",
+    "sha256": "9c311749ec161fdab6e359a1d0997bcc427fb41e14dcc59a9042bd0585656e4b"
+  },
+  {
+    "source_id": "SRC0193",
+    "role": "DSI_mean_without_NPV_2004_2019.tif",
+    "sha256": "463994cbf7bdd24d014ea50e058f2baebe0515240da8b2891b0215b55aad2d8b"
+  },
+  {
+    "source_id": "SRC0194",
+    "role": "DSI_mean_with_NPV_2004_2019.tif",
+    "sha256": "d175c5e914a6cdfdc340c524ce24631c2d36ee7c93555872ffe21b2e9e5bca99"
+  },
+  {
+    "source_id": "SRC0195",
+    "role": "figure8_difference_distribution_2004_2019.csv",
+    "sha256": "da8b1a293752b8e3a8bb81eda5a710b2b0046c235433556982f9bb7ee71a6062"
+  },
+  {
+    "source_id": "SRC0196",
+    "role": "DI_2004.tif",
+    "sha256": null
+  },
+  {
+    "source_id": "SRC0197",
+    "role": "DI_2005.tif",
+    "sha256": null
+  },
+  {
+    "source_id": "SRC0198",
+    "role": "DI_2006.tif",
+    "sha256": null
+  },
+  {
+    "source_id": "SRC0199",
+    "role": "DI_2007.tif",
+    "sha256": null
+  },
+  {
+    "source_id": "SRC0200",
+    "role": "DI_2008.tif",
+    "sha256": null
+  },
+  {
+    "source_id": "SRC0201",
+    "role": "DI_2009.tif",
+    "sha256": null
+  },
+  {
+    "source_id": "SRC0202",
+    "role": "DI_2010.tif",
+    "sha256": null
+  },
+  {
+    "source_id": "SRC0203",
+    "role": "DI_2011.tif",
+    "sha256": null
+  },
+  {
+    "source_id": "SRC0204",
+    "role": "DI_2012.tif",
+    "sha256": null
+  },
+  {
+    "source_id": "SRC0205",
+    "role": "DI_2013.tif",
+    "sha256": null
+  },
+  {
+    "source_id": "SRC0206",
+    "role": "DI_2014.tif",
+    "sha256": null
+  },
+  {
+    "source_id": "SRC0207",
+    "role": "DI_2015.tif",
+    "sha256": null
+  },
+  {
+    "source_id": "SRC0208",
+    "role": "DI_2016.tif",
+    "sha256": null
+  },
+  {
+    "source_id": "SRC0209",
+    "role": "DI_2017.tif",
+    "sha256": null
+  },
+  {
+    "source_id": "SRC0210",
+    "role": "DI_2018.tif",
+    "sha256": null
+  },
+  {
+    "source_id": "SRC0211",
+    "role": "DI_2019.tif",
+    "sha256": null
+  },
+  {
+    "source_id": "SRC0212",
+    "role": "DI_2004.tif",
+    "sha256": null
+  },
+  {
+    "source_id": "SRC0213",
+    "role": "DI_2005.tif",
+    "sha256": null
+  },
+  {
+    "source_id": "SRC0214",
+    "role": "DI_2006.tif",
+    "sha256": null
+  },
+  {
+    "source_id": "SRC0215",
+    "role": "DI_2007.tif",
+    "sha256": null
+  },
+  {
+    "source_id": "SRC0216",
+    "role": "DI_2008.tif",
+    "sha256": null
+  },
+  {
+    "source_id": "SRC0217",
+    "role": "DI_2009.tif",
+    "sha256": null
+  },
+  {
+    "source_id": "SRC0218",
+    "role": "DI_2010.tif",
+    "sha256": null
+  },
+  {
+    "source_id": "SRC0219",
+    "role": "DI_2011.tif",
+    "sha256": null
+  },
+  {
+    "source_id": "SRC0220",
+    "role": "DI_2012.tif",
+    "sha256": null
+  },
+  {
+    "source_id": "SRC0221",
+    "role": "DI_2013.tif",
+    "sha256": null
+  },
+  {
+    "source_id": "SRC0222",
+    "role": "DI_2014.tif",
+    "sha256": null
+  },
+  {
+    "source_id": "SRC0223",
+    "role": "DI_2015.tif",
+    "sha256": null
+  },
+  {
+    "source_id": "SRC0224",
+    "role": "DI_2016.tif",
+    "sha256": null
+  },
+  {
+    "source_id": "SRC0225",
+    "role": "DI_2017.tif",
+    "sha256": null
+  },
+  {
+    "source_id": "SRC0226",
+    "role": "DI_2018.tif",
+    "sha256": null
+  },
+  {
+    "source_id": "SRC0227",
+    "role": "DI_2019.tif",
+    "sha256": null
+  },
+  {
+    "source_id": "SRC0228",
+    "role": "figure8_statistics_2004_2019.json",
+    "sha256": "942cded185f6cb166e269d0b415e4145f756dc49e83b134737f17adb52c26bcd"
+  },
+  {
+    "source_id": "SRC0229",
+    "role": "DSI_trend_difference_with_minus_without_NPV_2004_2019.tif",
+    "sha256": "293ffad06590ab2b1cbc976557a912bc0dddd5dffa2949701a720379bb18f0db"
+  },
+  {
+    "source_id": "SRC0230",
+    "role": "DSI_trend_category_transition_2004_2019.tif",
+    "sha256": "0a070ae64df1cc27ac69bd59a1d14cf6ab2de7b3785b63d27623cba8b3b3bc23"
+  },
+  {
+    "source_id": "SRC0231",
+    "role": "external_common_mask_2004_2019.tif",
+    "sha256": "61d69cf1109f158494e30e44fe528085c338374e75615cfae7a980877ee05318"
+  },
+  {
+    "source_id": "SRC0232",
+    "role": "figure9_category_transition_2004_2019.csv",
+    "sha256": "6a6d550b09b26e19dc3ef891eb62f7ac8ae8c218796cd7548cc541b3e51625f2"
+  },
+  {
+    "source_id": "SRC0233",
+    "role": "figure9_external_agreement_2004_2019.csv",
+    "sha256": "482248180cfce9d6af40036554e209e430def703c73afc211cf976e640efe05f"
+  },
+  {
+    "source_id": "SRC0234",
+    "role": "SDG_Indicator_15.3.1_2004-2019_sum_0.1deg.tif",
+    "sha256": "5950c32472e79a05a854b81942946fccc484cbb5c8e80c98f9bae3302a391b81"
+  },
+  {
+    "source_id": "SRC0235",
+    "role": "SDG_Indicator_15.3.1_2004-2019_sum_0.1deg.tif",
+    "sha256": "46f1a471ddc31936d7fc9a8a28a31a062892a91ea05a983713c9579cd73eb16b"
+  },
+  {
+    "source_id": "SRC0236",
+    "role": "SDG_Indicator_15.3.1_2004-2019_sum_0.1deg.tif",
+    "sha256": "d7122a6affa90e3568d8c549e9019dc8bd1ca7d51b06ae8f76a621a17b10ccb2"
+  },
+  {
+    "source_id": "SRC0237",
+    "role": "figure9_statistics_2004_2019.json",
+    "sha256": "8eef376b023651311875e66f146846eba403c9295bc4951f8ee3a3840bfd8bb7"
+  },
+  {
+    "source_id": "SRC0238",
+    "role": "figure9_bootstrap_draws_2004_2019.npz",
+    "sha256": "b219504a3ddbafe5b520facd742b326bb2399106a3aae7088540cbc3614859a5"
+  },
+  {
+    "source_id": "SRC0239",
+    "role": "FAO_WOCAT_continuous_LISA_cluster.tif",
+    "sha256": "41ea40db802cb0a9eeb20364e7daa8bcb2516cf5c5c6cbfe5453988e4e97843f"
+  },
+  {
+    "source_id": "SRC0240",
+    "role": "FAO_WOCAT_continuous_local_bivariate_moran_I.tif",
+    "sha256": "d2a93a922194dd3858595221f35485ffbf6b8931301a7caaf204f05460e783c0"
+  },
+  {
+    "source_id": "SRC0241",
+    "role": "FAO_WOCAT_continuous_local_bivariate_moran_qvalue.tif",
+    "sha256": "a6d4977d15c4421a3e13263278380b93b6fdba3d2bbca9544c7298ceba9d1f07"
+  },
+  {
+    "source_id": "SRC0242",
+    "role": "JRC_continuous_LISA_cluster.tif",
+    "sha256": "2e42a94e80df7cde8dc9b65dc14d7cfc9f0ca40099c6018bd18f53ed5b9e8c8d"
+  },
+  {
+    "source_id": "SRC0243",
+    "role": "JRC_continuous_local_bivariate_moran_I.tif",
+    "sha256": "0ec0321734520b377e93295b81955192279cfab9f95fcda3f218c216eec4da0d"
+  },
+  {
+    "source_id": "SRC0244",
+    "role": "JRC_continuous_local_bivariate_moran_qvalue.tif",
+    "sha256": "ac9cc13bd0aef341502749ea3a5b6230d55b023571950a79acd4c0ff39ac0415"
+  },
+  {
+    "source_id": "SRC0245",
+    "role": "Trends_Earth_continuous_LISA_cluster.tif",
+    "sha256": "b5f62932bb73b33f2acb7dd2792b0d65fc8fe6f2e8099976aae134a40913e5bb"
+  },
+  {
+    "source_id": "SRC0246",
+    "role": "Trends_Earth_continuous_local_bivariate_moran_I.tif",
+    "sha256": "a62952ce9f48aafa7ac52c86ea1ab0e0cb6338203fd278c92706a1115261a44d"
+  },
+  {
+    "source_id": "SRC0247",
+    "role": "Trends_Earth_continuous_local_bivariate_moran_qvalue.tif",
+    "sha256": "b5907c8ec5c9379b19cc5fc9e1a709b842f2879a0a56c36ec70e2d1b7cd9c5d5"
+  },
+  {
+    "source_id": "SRC0248",
+    "role": "global_bivariate_moran_results.csv",
+    "sha256": "88f9d5b7df3b53bcd309ceea00f2c34b281099cf9cdce6d37e603a87bac03241"
+  },
+  {
+    "source_id": "SRC0249",
+    "role": "global_bivariate_moran_results.json",
+    "sha256": "26a0eae5cff534cb888f3014070da85578e6c21e9cd2c2f899881f39f4ef21a9"
+  },
+  {
+    "source_id": "SRC0250",
+    "role": "Fig1.jpg",
+    "sha256": "bfe2879e4cc2d50e51f533203e4295ecd6bb2d979a4468d4e2db73ba0d15faba"
+  },
+  {
+    "source_id": "SRC0251",
+    "role": "Fig2.jpg",
+    "sha256": "1050180531eeb3b039c0a3cbe5ab4d9122c88dcc4fc1a010e9cd66602ad3a3a9"
+  },
+  {
+    "source_id": "SRC0252",
+    "role": "Fig3.jpg",
+    "sha256": "aca545ab34c2d1ebd269a31c135c4e4701bd9b89ba5ad67311db4bdb502a8b02"
+  },
+  {
+    "source_id": "SRC0253",
+    "role": "Fig4.jpg",
+    "sha256": "9d9e484610c2f5664a663610d825846c5e03b17533803a59064dc55ac16be773"
+  },
+  {
+    "source_id": "SRC0254",
+    "role": "Fig5.jpg",
+    "sha256": "03339364fdb8339fd55d6668f4b8f064016acc7dd57edd8e70a0dfb62584c286"
+  },
+  {
+    "source_id": "SRC0255",
+    "role": "Fig6.jpg",
+    "sha256": "38f18ef10f997b498a367f298f117ccf19a126c06f4774a7eed2c092f45bb371"
+  },
+  {
+    "source_id": "SRC0256",
+    "role": "Fig7.jpg",
+    "sha256": "b19533db1150c89af19e1ef64301295c070a5f073d60c20127c2c01997e14a7d"
+  },
+  {
+    "source_id": "SRC0257",
+    "role": "Fig8.jpg",
+    "sha256": "a6e4016a3640c02f8cc6627bae0877be0e0967bd5298107cd73f08d89b33dc39"
+  },
+  {
+    "source_id": "SRC0258",
+    "role": "Fig9.jpg",
+    "sha256": "4035ef1d3bb5964d6ca3b3ab8d1f4141f86beb44ad1dc7f9e20dfe7e09d0bbb1"
+  },
+  {
+    "source_id": "SRC0259",
+    "role": "Fig10.jpg",
+    "sha256": "28657cae4972516ef15980d33c10ccf93b1dd2e723e7cbf9c67dd4fd06ec4b96"
+  },
+  {
+    "source_id": "SRC0260",
+    "role": "Fig11.jpg",
+    "sha256": "7d410751c3e5cd1d972bd932a59bfa0dc6db1b7ef78f4f794860230282cf47f3"
+  },
+  {
+    "source_id": "SRC0261",
+    "role": "Fig12.jpg",
+    "sha256": "f60a7e6fecf502209437ccb972f1daa1eb5ba1ca057078b6209d0ad0197a6ac3"
+  },
+  {
+    "source_id": "SRC0262",
+    "role": "Fig1.tif",
+    "sha256": "1e503e950b2c8781e66344732188bf312c603c33fbbe90819b593b754da47033"
+  },
+  {
+    "source_id": "SRC0263",
+    "role": "Fig2.tif",
+    "sha256": "81686ba17c4504b4eff3e0329c7a67c144079b95023e62e11f1f998ad3a649b4"
+  },
+  {
+    "source_id": "SRC0264",
+    "role": "Fig3.tif",
+    "sha256": "8adaa7bf5a2d873aa4c9b6090d3b2b12f63313b1d274bf1974a2aa8f2a7bae87"
+  },
+  {
+    "source_id": "SRC0265",
+    "role": "Fig4.tif",
+    "sha256": "534d9df2ac4dae83b8e08a1904d93cb72f26250e86bfec2a6d91f597a81ed431"
+  },
+  {
+    "source_id": "SRC0266",
+    "role": "Fig5.tif",
+    "sha256": "ee5e69fc4161a5e45411d6f29d2a8a95ba5a979a3e6cf7137de8b94c345b5565"
+  },
+  {
+    "source_id": "SRC0267",
+    "role": "Fig6.tif",
+    "sha256": "68e5254be946f97793fd4979a5b3786ef734700938d3d4aa94476486fc14fd98"
+  },
+  {
+    "source_id": "SRC0268",
+    "role": "Fig7.tif",
+    "sha256": "2a6b23fe3c408ac976a3fb59b3c70cc9daf8d61284d12e6c64b368e8bd49c080"
+  },
+  {
+    "source_id": "SRC0269",
+    "role": "Fig8.tif",
+    "sha256": "173d2904214434461aa4434fadcdcd8f7b111b93cc4d673bae18e8cc40add4f2"
+  },
+  {
+    "source_id": "SRC0270",
+    "role": "Fig9.tif",
+    "sha256": "8f30d8753717b7a631cff11f4ddf70af23c37eef55308b51ec8efa5b7efbe9dc"
+  },
+  {
+    "source_id": "SRC0271",
+    "role": "Fig10.tif",
+    "sha256": "53be31c9282848e2289c16361a570634354f61dcbc8b38b6d11ff2c21cbb206b"
+  },
+  {
+    "source_id": "SRC0272",
+    "role": "Fig11.tif",
+    "sha256": "2b0dd5e436587742d0bfefd562d2daed25969b44abd60b67d20d9467f4d45aef"
+  },
+  {
+    "source_id": "SRC0273",
+    "role": "Fig12.tif",
+    "sha256": "313fdb00f65138e8c3d5183c55e03e80ecd06b4e37386e707b7df85205a12f1e"
+  },
+  {
+    "source_id": "SRC0274",
+    "role": "Table1.xlsx",
+    "sha256": "af230e0167af70c4ed6847acffb3071c0c9f00672c38b495cb96efcc0a4d4031"
+  },
+  {
+    "source_id": "SRC0275",
+    "role": "Table2.xlsx",
+    "sha256": "fdd2d5d93298e6c943f93bf673f5bf9ce7e3af0ddd432fc96c07cd79f63db193"
+  },
+  {
+    "source_id": "SRC0276",
+    "role": "build_reference_vrts.py",
+    "sha256": "365f02c07dd976294d80364a96addc0122740cca012f75f74fecba9655b4daec"
+  },
+  {
+    "source_id": "SRC0277",
+    "role": "calc_all_indices.py",
+    "sha256": "56484fee8b23415d5ef3802680f68ddd7db24ae924652d15b5d54805e05b0260"
+  },
+  {
+    "source_id": "SRC0278",
+    "role": "get_fixed_bounds.py",
+    "sha256": "6b4ff52ce95319af863b8674505c63aca7729a10caedf1fb8facbba709cd8e3c"
+  },
+  {
+    "source_id": "SRC0279",
+    "role": "normalization_fixed_bounds.py",
+    "sha256": "b9d9a1e21a71f3c562c6600fb7caf3b0b2c0061bbf6a524d334a3af0516134bb"
+  },
+  {
+    "source_id": "SRC0280",
+    "role": "raster_percentile_stats.py",
+    "sha256": "eb3f27732ff0324a2703984780dc429a9403828e58720082c72c8602bf1e3571"
+  },
+  {
+    "source_id": "SRC0281",
+    "role": "01_resample_MODIS_to_0.1deg.py",
+    "sha256": "99511ee3a3a8833b9ac718a0be7e59371edcfa016f0421bfae6cbf92d82a13de"
+  },
+  {
+    "source_id": "SRC0282",
+    "role": "02_resample_RS_indices_to_0.1deg_INT16.py",
+    "sha256": "073f728c7dbadab620220ab0a09cc4a15a50113c36fea16ecf608371f25ccc07"
+  },
+  {
+    "source_id": "SRC0283",
+    "role": "03_resample_FVC_components_to_0.1deg_INT16.py",
+    "sha256": "a7ed132453f65ae86a26fe030eca58b137e4c3d27961a8a637cc3e547dc145c8"
+  },
+  {
+    "source_id": "SRC0284",
+    "role": "08_resample_SDG_sum_to_0.1deg.py",
+    "sha256": "a9922a92561b812e0c00d8a5ed0e26967f488ab12bc388c69cec7ba4ab86ce86"
+  },
+  {
+    "source_id": "SRC0285",
+    "role": "align_raster.py",
+    "sha256": "ecb8bf3b9cae9e5174ff2ed696004b29263e33644854a1b39c2262593d2051fb"
+  },
+  {
+    "source_id": "SRC0286",
+    "role": "align_modis_lulc_to_0p1.py",
+    "sha256": "a447d803ce90d714049a96598766b012547e26af438e6b6ce87530d7fa2d8703"
+  },
+  {
+    "source_id": "SRC0287",
+    "role": "prepare_study_mask.py",
+    "sha256": "b7d2b6247095b1892ff9420057bb579c6ed18592ef00d078fd428305c714c143"
+  },
+  {
+    "source_id": "SRC0288",
+    "role": "reclassify_align_modis_lulc_to_0p1.py",
+    "sha256": "166379990243b542f8d5543b4d641276a0cccb0c41c3f7c360a2b42c0015fc6c"
+  },
+  {
+    "source_id": "SRC0289",
+    "role": "01normalize_PV_NPV_direction.py",
+    "sha256": "75fcb806c73fab24f0c3be0287957c7c2a551f831d0bcd31071703d5bb414097"
+  },
+  {
+    "source_id": "SRC0290",
+    "role": "05calc_period_means.py",
+    "sha256": "d18bca502d57911ccce3faea0fe1448a0cbf48136d381f999bab9074247ee1dc"
+  },
+  {
+    "source_id": "SRC0291",
+    "role": "00run_pipeline.py",
+    "sha256": "1e3bbc15db8d67d472b703185a31dd8e6a922b2845f28b6957dbe069eceeab66"
+  },
+  {
+    "source_id": "SRC0292",
+    "role": "02data_quality.py",
+    "sha256": "fa96bfb06846e872e7c99e907e2368f7324a256b144ddc4c4202f02747d7beac"
+  },
+  {
+    "source_id": "SRC0293",
+    "role": "03knowledge_granulation.py",
+    "sha256": "49df2d77c1fd472137f33de8900f8ada55d1f0f95fc1f96a08323e7ad46e786d"
+  },
+  {
+    "source_id": "SRC0294",
+    "role": "04valid_mask.py",
+    "sha256": "c35243df24afb1341f1a0c81639f649cec071bde36f1b34354638dbaaeebc75c"
+  },
+  {
+    "source_id": "SRC0295",
+    "role": "05class_statistics.py",
+    "sha256": "3159c1f6cb544e1d83feaf7aceb694a37cc0c56658bfbe186f287bde411f8419"
+  },
+  {
+    "source_id": "SRC0296",
+    "role": "06entropy_weight.py",
+    "sha256": "e31fabef90de312f19b563d42a1064d80a056f08172635f540be43462c4a1d1d"
+  },
+  {
+    "source_id": "SRC0297",
+    "role": "07calculate_DI.py",
+    "sha256": "5072dde36bbdac051fd48f43cff002fa40ef1b9c273a064fac4706fc63154b53"
+  },
+  {
+    "source_id": "SRC0298",
+    "role": "08DI_quality.py",
+    "sha256": "da15e174165ee99bc52f0e7d321f742b61ea6b933b215c7f71afbcf24c8f004b"
+  },
+  {
+    "source_id": "SRC0299",
+    "role": "config.py",
+    "sha256": "bf917d29454baf9535c6c55dadc7072670a57b233c6eee28b8c67c8e22b4de9e"
+  },
+  {
+    "source_id": "SRC0300",
+    "role": "compute_ols_trends.py",
+    "sha256": "ab0bebb8141a78f8606749ede298ac96a5edd3714bd79835926f8749b96fe4c5"
+  },
+  {
+    "source_id": "SRC0301",
+    "role": "03a_dsi_sdg_bivariate_moran_compute_direct_dsi.py",
+    "sha256": "430c20531f96be8a9bf534cbf171dcc3db18d07f4cbd346743418de7deb6c771"
+  },
+  {
+    "source_id": "SRC0302",
+    "role": "03c_dsi_sdg_global_bivariate_moran_table.py",
+    "sha256": "add0e1e50f20307ff4f9fbf2c5892d0e9ba62e3a62f29b2e2c77cc17f679fe0f"
+  },
+  {
+    "source_id": "SRC0303",
+    "role": "02_compute_figure9_npv_trend_effect.py",
+    "sha256": "7308c0defc882ccdf247713d129d7f80b83f5e81399a9daa9fdab18b8d281429"
+  },
+  {
+    "source_id": "SRC0304",
+    "role": "07_compute_fvc_combinations.py",
+    "sha256": "f0ba05deee38436063ddf6357864f556a6ae565f2d18614aad54f4e13622af5d"
+  },
+  {
+    "source_id": "SRC0305",
+    "role": "08_compute_main_dsi_response.py",
+    "sha256": "493ac88ffeba57a7ee62fcd558270a0d11589ab9fd302628847e0aa9398822c8"
+  },
+  {
+    "source_id": "SRC0306",
+    "role": "01_compute_lucc_dsi.py",
+    "sha256": "2607191b79e98f4d227b985c99b1e7acd6020a6153c8af0a7015951c3c56ddd9"
+  },
+  {
+    "source_id": "SRC0307",
+    "role": "09_plot_fvc_dsi_relationship.py",
+    "sha256": "c84785c64cff61284e31ad7e03c0a9e7f3fa7f45adb7162e217f357659169ea9"
+  },
+  {
+    "source_id": "SRC0308",
+    "role": "04_plot_figure12_network.py",
+    "sha256": "af09f05c55249c3009030e329d142e4d513c807e73dfc7b6e64c812d78f27cce"
+  },
+  {
+    "source_id": "SRC0309",
+    "role": "05_export_figure.py",
+    "sha256": "2c37d1ac4775a7a2f510e9bf36e791f0a85f8d6d1921a41b4edaa2bf34109ade"
+  },
+  {
+    "source_id": "SRC0310",
+    "role": "06_plot_publication_figures.py",
+    "sha256": "0ab06ab9863895a5d19b98b8284b9385a52934d97f62afff41211057264e2eb2"
+  },
+  {
+    "source_id": "SRC0311",
+    "role": "02_build_table2.py",
+    "sha256": "bb0ce5fe9c675851e558fda825b7311cecc9f20f860e2531a95b4e26f7330732"
+  },
+  {
+    "source_id": "SRC0312",
+    "role": "01_figure8_npv_state_effect.py",
+    "sha256": "f906f699368be906d6f2c9ade5b49c24148ff6ee480ee3b56c88f50aa2d2a904"
+  },
+  {
+    "source_id": "SRC0313",
+    "role": "03_plot_figure9_npv_trend_effect.py",
+    "sha256": "66a3447264318f3b0b2039cdec60db3368f21935121fe30a605e4e65255cf98a"
+  },
+  {
+    "source_id": "SRC0314",
+    "role": "01_dsi_sdg_density_regression.py",
+    "sha256": "74e1973ed3b4e11c83bac599534d9b0bca1a0f19ecfcf4c46446d508f08cd597"
+  },
+  {
+    "source_id": "SRC0315",
+    "role": "02_sdg_class_dsi_violin.py",
+    "sha256": "58d4eb86aa58c77405eba0c67f8b6c9ea1b132b8c7f9064271b7423f3a5c90b9"
+  },
+  {
+    "source_id": "SRC0316",
+    "role": "03_dsi_sdg_bivariate_lisa.py",
+    "sha256": "c9b93e9a5fc4ec18412afc66137465f39091a740ed5574c4dea6204b35210d93"
+  },
+  {
+    "source_id": "SRC0317",
+    "role": "04_plot_DI_trend_and_significance.py",
+    "sha256": "7924cedce356d020e1c14134558449a3695b8a0b137014c7754733d5bfeda21d"
+  },
+  {
+    "source_id": "SRC0318",
+    "role": "04_plot_three_year_cartopy_comparison.py",
+    "sha256": "b2b8b0a24cc9066bec2b331a011117cbfcbddcf79ec6fb26c270e04e8de11945"
+  },
+  {
+    "source_id": "SRC0319",
+    "role": "01_plot_study_area.py",
+    "sha256": "3db4467a859563031a8dee084674f6650d7b1dcaa3c6bb69ad69c84312fa0d6e"
+  },
+  {
+    "source_id": "SRC0320",
+    "role": "table_utils.py",
+    "sha256": "42a3d49c65f38e9a4e8563953f7682e1c8da7afd094745cea7cb8b893ca9a4a0"
+  },
+  {
+    "source_id": "SRC0321",
+    "role": "io_guard.py",
+    "sha256": "1bda4611f4b60c5938820523b6e4514af1de510a426c89e6d4faecab16038784"
+  },
+  {
+    "source_id": "SRC0322",
+    "role": "project_paths.py",
+    "sha256": "dfc7ad8ebd2e03f742f12d41e33b6ea060c5f2608b4157dc64e78805d2f19883"
+  },
+  {
+    "source_id": "SRC0323",
+    "role": "workflow.py",
+    "sha256": "4944da979f5e68d82364b873357782f748112356e712863265b491d64630d079"
+  },
+  {
+    "source_id": "SRC0324",
+    "role": "run_pipeline.py",
+    "sha256": "a8658de79134008242e7bc21e590103eb1dcfc1a6545f74ad3c7763e7416fa0d"
+  },
+  {
+    "source_id": "SRC0325",
+    "role": "environment.yml",
+    "sha256": "56c68651d167dce76d1339e1a5b7bb2215e65624b9ece9c11444d20db46a87d4"
+  },
+  {
+    "source_id": "SRC0326",
+    "role": "software_versions.json",
+    "sha256": "666b9f03f2a546f9fef8d75f93b90ec65f3c35dddb9b31db56eba7db1369d882"
+  },
+  {
+    "source_id": "SRC0327",
+    "role": "analysis_parameters.json",
+    "sha256": "1fcc4e67a4ce09d0d48e9bfb3dd6e16c04f3fff553422026f487e7af508273ec"
+  },
+  {
+    "source_id": "SRC0328",
+    "role": "DI_trend_2001_2021.tif",
+    "sha256": null,
+    "reference_sha256": "0f712011b6f2901d696ae97c3f34996c1115f965f82149e59b19792e32cc60ef"
+  },
+  {
+    "source_id": "SRC0329",
+    "role": "DI_significance_pvalue_2001_2021.tif",
+    "sha256": null,
+    "reference_sha256": "25123d9dcb5967612b74fc556760072780d91ebc6454d0ca9cd105e82d2ba3fc"
+  },
+  {
+    "source_id": "SRC0330",
+    "role": "DI_significance_pvalue_2001_2021.tif",
+    "sha256": null,
+    "reference_sha256": "2cd3fa62412a85b220360d7055eb2372c939dc9c65f590fbd7a17fa2d1fc1a39"
+  },
+  {
+    "source_id": "SRC0331",
+    "role": "DI_trend_2001_2021.tif",
+    "sha256": null,
+    "reference_sha256": "6b3246a0728ec222d682e446ea3483777428e5a4bca7c9163791f7f939650f8c"
+  },
+  {
+    "source_id": "SRC0332",
+    "role": "DI_significance_pvalue_2004_2019.tif",
+    "sha256": null,
+    "reference_sha256": "4d27ae4c3451a803c0a8990d3248fc6dde4f94fedccb86e8268026d2ebca59d0"
+  },
+  {
+    "source_id": "SRC0333",
+    "role": "DI_trend_2004_2019.tif",
+    "sha256": null,
+    "reference_sha256": "a80a1746d3d404eafafeff54dc55c6a362201e485d74a98fdb05b847ef83f811"
+  },
+  {
+    "source_id": "SRC0334",
+    "role": "Gk_Er_W.xlsx",
+    "sha256": null,
+    "reference_sha256": "22d6aa9bfdb9035013df9af19916303209b79721a85a193c378028deb3e7eab2"
+  },
+  {
+    "source_id": "SRC0335",
+    "role": "Gk_Er_W.xlsx",
+    "sha256": null,
+    "reference_sha256": "1d3c58b6ca209ab5eed14264c22399df57187adb07f5ea09a24f94ff3d841c6b"
+  },
+  {
+    "source_id": "SRC0336",
+    "role": "all_statistics.json",
+    "sha256": "bc9cb81fa550d99a61c446f35086a89d278f43b6b48181dc23ea4ab3b9ed50d7"
+  },
+  {
+    "source_id": "SRC0337",
+    "role": "config_snapshot.json",
+    "sha256": "537e46bf01340cb95fbe6b769192acc8337005eecdf79b8af05d4a4a851e426b"
+  },
+  {
+    "source_id": "SRC0338",
+    "role": "source_reference",
+    "sha256": null,
+    "reference_sha256": "650fefc08bd2689271720b683d35754e105075c76be36ec39d58b3d7090ec43a"
+  },
+  {
+    "source_id": "SRC0339",
+    "role": "external_common_2004_2019.tif",
+    "sha256": "2c6c15b71c4e66ed401860c3f0417917547957b71539e4cc15b1ece0cd2d00f3"
+  },
+  {
+    "source_id": "SRC0340",
+    "role": "long_term_2001_2021.tif",
+    "sha256": "42b7cf9a6edea7a8435e1d3f7faa8ee77758588f9c0f7643e99d439578ad9a0a"
+  },
+  {
+    "source_id": "SRC0341",
+    "role": "npv_contrast_2004_2019.tif",
+    "sha256": "92a445cef3b61ad490c20e1ed7113f518f205047036ee64ba9154ad823659f8a"
+  },
+  {
+    "source_id": "SRC0342",
+    "role": "external_consistency.csv",
+    "sha256": "1d19dd4fa19ac016e354e9f9c227b3b7be300dd53f29349127270a9fa3ab5ec7"
+  },
+  {
+    "source_id": "SRC0343",
+    "role": "long_term_trends.csv",
+    "sha256": "39920c8a61799f607de017c140a16d7fb696941bc9edd167f8c277abbbd86467"
+  },
+  {
+    "source_id": "SRC0344",
+    "role": "NPV_contrasts.csv",
+    "sha256": "948d182cf95efac614f82eec7dd2568840de74d7e192b51c3115fd624b056369"
+  },
+  {
+    "source_id": "SRC0345",
+    "role": "Table_S1_weights.csv",
+    "sha256": "ae9d6da1829ef8bd0c9a00727a622b1304bd8fb10cbfe169eda7e3a8c5e60cfc"
+  },
+  {
+    "source_id": "SRC0346",
+    "role": "Table_S2_sensitivity_summary.csv",
+    "sha256": "ad94520045105f9cb3b7a138f85e0280b39ad1e646c34df684e2c85152d195d6"
+  },
+  {
+    "source_id": "SRC0347",
+    "role": "annual_class_counts.csv",
+    "sha256": "229cc38813e8cf0b338dcea59f56944ea05d1e4ec94945e2ffe86fa5e2dd9205"
+  },
+  {
+    "source_id": "SRC0348",
+    "role": "annual_validity.csv",
+    "sha256": "dd63b5d5928e039baf532cca6e5ddcbbeba65577daa7f17fd4738cd817e38b1c"
+  },
+  {
+    "source_id": "SRC0349",
+    "role": "weights.json",
+    "sha256": "915368015887b10c181654837d1ad60cebb3be13f1475dc65d9c28478cec8bb5"
+  },
+  {
+    "source_id": "SRC0350",
+    "role": "weights_long.csv",
+    "sha256": "2ea25e8301bbce7089303e5d35d2c70cb399fbd2f3c0d8898c6bd5b962ab1854"
+  },
+  {
+    "source_id": "SRC0351",
+    "role": "paired_bootstrap_draws_2004_2019.npz",
+    "sha256": "f1d209954fcfcc18db952bf1785870e32c80b90bbbe0ed4ca31fbcf26815f2af"
+  },
+  {
+    "source_id": "SRC0352",
+    "role": "statistics.json",
+    "sha256": "2481969ce0ef0c82d693e10df488c3941f7fbb6312ce7d58337ed4a0141b63de"
+  },
+  {
+    "source_id": "SRC0353",
+    "role": "trend_class_transition_2004_2019.csv",
+    "sha256": "4f069d64cfa7b0260e5da52c4c8126d2f778f3ade1d60fadbed9f4b064c48f80"
+  },
+  {
+    "source_id": "SRC0354",
+    "role": "paired_bootstrap_draws_2004_2019.npz",
+    "sha256": "8636c5f4e0ea1a9186f3241fdf988cdc6909dae31f6460398b086e0f7ded0ca6"
+  },
+  {
+    "source_id": "SRC0355",
+    "role": "statistics.json",
+    "sha256": "dee7eb3bcb6039fc6935fe5c19ca66a6c4b5c6b5934253dda9560dcfaa83d1bb"
+  },
+  {
+    "source_id": "SRC0356",
+    "role": "trend_class_transition_2004_2019.csv",
+    "sha256": "824838d65b061a17bcc3c7874c58a4b348358898dbf1706ccd7918da60e86ffa"
+  },
+  {
+    "source_id": "SRC0357",
+    "role": "paired_bootstrap_draws_2004_2019.npz",
+    "sha256": "0dee4c66b360ccd9f24ed7f8eff451475adad5d784a8d1abb53003c5f91782fe"
+  },
+  {
+    "source_id": "SRC0358",
+    "role": "statistics.json",
+    "sha256": "f571443d1ff2632aa21d7191f722d8e8aebb852e9707f26c6d34f8fecea2a883"
+  },
+  {
+    "source_id": "SRC0359",
+    "role": "trend_class_transition_2004_2019.csv",
+    "sha256": "f2ee545d90bf66c20ae17797d78ee9b1301c76e6ee3d44097855efc6c528aba2"
+  },
+  {
+    "source_id": "SRC0360",
+    "role": "paired_bootstrap_draws_2004_2019.npz",
+    "sha256": "76bbf19e21c10852bda5d5395f2afbe407c31812a2f7c7e488d48bb74c64d585"
+  },
+  {
+    "source_id": "SRC0361",
+    "role": "statistics.json",
+    "sha256": "ed3836be7aaf3fbe6bb6d534aac8454ff949bea4818134ca7629669dfd91edb4"
+  },
+  {
+    "source_id": "SRC0362",
+    "role": "trend_class_transition_2004_2019.csv",
+    "sha256": "c491b51c95ea0a7f5962ebbfc1835bb2ec725c591791ac34da02d2fd0d4b786b"
+  },
+  {
+    "source_id": "SRC0363",
+    "role": "delta_DSI_with_minus_without_NPV.tif",
+    "sha256": "d8e8fbd566e05a84590ae420bea8f67d9daab6f3ba223f747aad37567c53464c"
+  },
+  {
+    "source_id": "SRC0364",
+    "role": "delta_slope_with_minus_without_NPV.tif",
+    "sha256": "8d446b1776d4d8ff90b65dae89d94f084ccf414126c42aaa31049a3a40ca312e"
+  },
+  {
+    "source_id": "SRC0365",
+    "role": "DSI_class_without_NPV.tif",
+    "sha256": "4d8831aee02dc343a32cbccd28e26a0e5d3406d3583f7f02eb06f6c8b377bb7e"
+  },
+  {
+    "source_id": "SRC0366",
+    "role": "DSI_class_with_NPV.tif",
+    "sha256": "6b7b33d27e22f57520dc6d1a0f4e60a87bda0499aaf20995154c0b44a2d844a3"
+  },
+  {
+    "source_id": "SRC0367",
+    "role": "DSI_mean_without_NPV.tif",
+    "sha256": "b3c3bb6a41eb484ca57955da92b9f0f1fb317971699d138a4be0a60074be15a1"
+  },
+  {
+    "source_id": "SRC0368",
+    "role": "DSI_mean_with_NPV.tif",
+    "sha256": "cacb5751e61cb89a783da0becd03ea9eaf7474f2eabea7e3afc6ad1b45251f53"
+  },
+  {
+    "source_id": "SRC0369",
+    "role": "DSI_pvalue_without_NPV.tif",
+    "sha256": "8aa789c706ad2e3b6b5238a17c70bd5cfc7103751e721b59c75d74bed73e201d"
+  },
+  {
+    "source_id": "SRC0370",
+    "role": "DSI_pvalue_with_NPV.tif",
+    "sha256": "c2cd480c15413ea5d819319c5a9c45f2972e61b79b9f1582b12bc0895d34293c"
+  },
+  {
+    "source_id": "SRC0371",
+    "role": "DSI_slope_without_NPV.tif",
+    "sha256": "d88ad6fa500dd22f71092b48140dd0abf15624e3009b79656fcfed287f001188"
+  },
+  {
+    "source_id": "SRC0372",
+    "role": "DSI_slope_with_NPV.tif",
+    "sha256": "fc88273c71778430464d20ec92fa209e26d76762ddb972ed99e56630c4204e79"
+  },
+  {
+    "source_id": "SRC0373",
+    "role": "DSI_class.tif",
+    "sha256": "92434662692f3e87ac9310832e2712bed46b8335a63d7a53dba064d107543480"
+  },
+  {
+    "source_id": "SRC0374",
+    "role": "DSI_pvalue.tif",
+    "sha256": "80b2ebf14a3962b6037c83a3554a250eedb8563e41ee5cfc65e0937d46895094"
+  },
+  {
+    "source_id": "SRC0375",
+    "role": "DSI_slope.tif",
+    "sha256": "9e2be305381a6d6b72c12ceec7ccb0a31da697452be073e6e71a55fe6a687a18"
+  },
+  {
+    "source_id": "SRC0376",
+    "role": "DI_2001.tif",
+    "sha256": "24038f4331db32e9872d0c0e1a1edcd263a6a45bbba7462c56c28c102dda5d71"
+  },
+  {
+    "source_id": "SRC0377",
+    "role": "source_reference",
+    "sha256": null,
+    "reference_sha256": "04a1ee3dc9c10a730273f168fa154b7bf91a7f7426f8b2d56dafa19c54715715"
+  },
+  {
+    "source_id": "SRC0378",
+    "role": "DI_2002.tif",
+    "sha256": "8045af7b7bd0b15670b9a751739484b379227f7c566583e507c70dd3d0c2190b"
+  },
+  {
+    "source_id": "SRC0379",
+    "role": "source_reference",
+    "sha256": null,
+    "reference_sha256": "7ef616646d4ab37ad11ba60cf8fb5556162a1ea67ba777c681e9b4490b6a7570"
+  },
+  {
+    "source_id": "SRC0380",
+    "role": "DI_2003.tif",
+    "sha256": "d8f22583d35336f673d64cc3c7607095ecb49fe6a409cd164bea3dffcc7d90f7"
+  },
+  {
+    "source_id": "SRC0381",
+    "role": "source_reference",
+    "sha256": null,
+    "reference_sha256": "159a026b97543033bbe737bdca5c72319aedb2ae7da60d504d5c83384ea77aab"
+  },
+  {
+    "source_id": "SRC0382",
+    "role": "DI_2004.tif",
+    "sha256": "30d9cd1816d1378b013bcdb4581971fa36bea2da9dec9ae2ecf47658a5de2ef0"
+  },
+  {
+    "source_id": "SRC0383",
+    "role": "source_reference",
+    "sha256": null,
+    "reference_sha256": "437b97a2c1ffafe295fe678c18771b8c1d605391d01c95d6fbd27cb847b613d3"
+  },
+  {
+    "source_id": "SRC0384",
+    "role": "DI_2005.tif",
+    "sha256": "60537db29eeaa9aabf2916960fdaccba646afe14f45a35d4c7ebc67fec6360ae"
+  },
+  {
+    "source_id": "SRC0385",
+    "role": "source_reference",
+    "sha256": null,
+    "reference_sha256": "8fc5e1e555a96216abe25e0864607dc70ed7de5ca6805c4d30f18eaf627ef321"
+  },
+  {
+    "source_id": "SRC0386",
+    "role": "DI_2006.tif",
+    "sha256": "ce8238135d51a446c3f3b08f569142e34d45dffd940d6c1bb8162b37a11b6b08"
+  },
+  {
+    "source_id": "SRC0387",
+    "role": "source_reference",
+    "sha256": null,
+    "reference_sha256": "84cd61306cf4a6ca9bfa079f33f5875046d66f3c03073f84fc7c7a6418df0781"
+  },
+  {
+    "source_id": "SRC0388",
+    "role": "DI_2007.tif",
+    "sha256": "1c9686cf490123bcf5e10b7fc183d739731efa3055fae76853838d498cc4635d"
+  },
+  {
+    "source_id": "SRC0389",
+    "role": "source_reference",
+    "sha256": null,
+    "reference_sha256": "44bfb686cab8ccb82432c3a761cbb383a38069a3b531df18b177beb8f59c2f93"
+  },
+  {
+    "source_id": "SRC0390",
+    "role": "DI_2008.tif",
+    "sha256": "efd396f54faf6451d2dd90aea5dc7beb324c501da37b72556838e96c41177a8c"
+  },
+  {
+    "source_id": "SRC0391",
+    "role": "source_reference",
+    "sha256": null,
+    "reference_sha256": "a33fa836c132c9766be1a08bc7d15414d899b27bdb9586370011a51d60e203b3"
+  },
+  {
+    "source_id": "SRC0392",
+    "role": "DI_2009.tif",
+    "sha256": "a5c19e62d7bcee7a3be6c31c32ad465b17ceccec0c299bf92d412e4d5e59b8b7"
+  },
+  {
+    "source_id": "SRC0393",
+    "role": "source_reference",
+    "sha256": null,
+    "reference_sha256": "c8e4093d37a932d2ec3882b35b507a0957d918acd019f3c924296673e0f94c2a"
+  },
+  {
+    "source_id": "SRC0394",
+    "role": "DI_2010.tif",
+    "sha256": "6692b5ee29a6ba000ea5e4b0b8a0455eb8bf34f4934dd4f979b11ff772183a03"
+  },
+  {
+    "source_id": "SRC0395",
+    "role": "source_reference",
+    "sha256": null,
+    "reference_sha256": "5400d235ec58111c2a2375f58e82c0aa5366045478ef1452c0db4106dc4d7784"
+  },
+  {
+    "source_id": "SRC0396",
+    "role": "DI_2011.tif",
+    "sha256": "aba4ae8e04ad37af0ab8129a227b0c4362515f63f199ea1dbf8ef5b99d7aa0b0"
+  },
+  {
+    "source_id": "SRC0397",
+    "role": "source_reference",
+    "sha256": null,
+    "reference_sha256": "17297be08ef8bff39f7b3a2cd02141545c8e121c0b081de19823f65771f088d1"
+  },
+  {
+    "source_id": "SRC0398",
+    "role": "DI_2012.tif",
+    "sha256": "549521ab1c771ad107dd1749bd47caccd7541f678cbbeefa68fd8eda408d379f"
+  },
+  {
+    "source_id": "SRC0399",
+    "role": "source_reference",
+    "sha256": null,
+    "reference_sha256": "b030c2e154c5f59f0c0ca871f5202245e5d62d550c6fd69a4ed67210847d23f7"
+  },
+  {
+    "source_id": "SRC0400",
+    "role": "DI_2013.tif",
+    "sha256": "8909c1b0b205eb27dc50d8f43abe80efe6faa7448e118daa5b9b1d614d76fd79"
+  },
+  {
+    "source_id": "SRC0401",
+    "role": "source_reference",
+    "sha256": null,
+    "reference_sha256": "ecd2fec14e1a1a83407cb0268d69bc3d96bed901b193c3e731ebb11488bfb23a"
+  },
+  {
+    "source_id": "SRC0402",
+    "role": "DI_2014.tif",
+    "sha256": "901fbc5943506379dafdefa9454bd145507d901965116723e1626129a374d52e"
+  },
+  {
+    "source_id": "SRC0403",
+    "role": "source_reference",
+    "sha256": null,
+    "reference_sha256": "cc886b8855cef8f5e062c79ae95b5c9a8b34b4632ed62149996465a6cb5accf6"
+  },
+  {
+    "source_id": "SRC0404",
+    "role": "DI_2015.tif",
+    "sha256": "be92c446a25925a22d08f88e9bffb87a55c0972469fb4a2633935eacc520a17d"
+  },
+  {
+    "source_id": "SRC0405",
+    "role": "source_reference",
+    "sha256": null,
+    "reference_sha256": "a747bba12bebd0cbf641695348195c66a89efb724e782bbe967048af9fc99d6f"
+  },
+  {
+    "source_id": "SRC0406",
+    "role": "DI_2016.tif",
+    "sha256": "108e968b9c78b2c95e05da335b863dd0d1d8ad398067101c204ca2937dc37f51"
+  },
+  {
+    "source_id": "SRC0407",
+    "role": "source_reference",
+    "sha256": null,
+    "reference_sha256": "cd90d6cf264b6a59c7c37082daedfb96d7a29fab05a66d5839b55eb3b385bdd9"
+  },
+  {
+    "source_id": "SRC0408",
+    "role": "DI_2017.tif",
+    "sha256": "9cd31f5bbc062729cdf5badac6f247c373aeabdaa82d6bffa74a8613b4cb7a52"
+  },
+  {
+    "source_id": "SRC0409",
+    "role": "source_reference",
+    "sha256": null,
+    "reference_sha256": "6146bc8e848620a29559c3d769ff7b03fe16f3fa6012e60f047f5d8da92ed3cd"
+  },
+  {
+    "source_id": "SRC0410",
+    "role": "DI_2018.tif",
+    "sha256": "e80c0821bc749fee4a2d2381894257df2fec59383879250552bd13178481b0f0"
+  },
+  {
+    "source_id": "SRC0411",
+    "role": "source_reference",
+    "sha256": null,
+    "reference_sha256": "f71c49d24dfad4dd8074dcce261cdffeb0cbe5c0836ebfce5ba1a1e9278320bd"
+  },
+  {
+    "source_id": "SRC0412",
+    "role": "DI_2019.tif",
+    "sha256": "20d3913e51234721ba34cb1cbb0586e56dbf557db07b9a07530c21462dff3d24"
+  },
+  {
+    "source_id": "SRC0413",
+    "role": "source_reference",
+    "sha256": null,
+    "reference_sha256": "15a4064c18c0386e77d57289797f8f251252d257ce97c7918ec8b9c997cbf312"
+  },
+  {
+    "source_id": "SRC0414",
+    "role": "DI_2020.tif",
+    "sha256": "cdcf4caceb711edeffe74edfcd0fbd79e9b42a3d7448309e4b7a0f45f9799af5"
+  },
+  {
+    "source_id": "SRC0415",
+    "role": "source_reference",
+    "sha256": null,
+    "reference_sha256": "fb58080e9039845910774c04af242a29c7bc40baaee3137086c36cb93e4ec60f"
+  },
+  {
+    "source_id": "SRC0416",
+    "role": "DI_2021.tif",
+    "sha256": "4864c21864ee6629b6a0ba420ce41684320c0f6418370e1ba97877bd358d5107"
+  },
+  {
+    "source_id": "SRC0417",
+    "role": "source_reference",
+    "sha256": null,
+    "reference_sha256": "bcddfc44e2b1dc05c024e2acbebcbc6262d758d2aa8845dbcc65d33cce45531d"
+  },
+  {
+    "source_id": "SRC0418",
+    "role": "DI_2001.tif",
+    "sha256": "d3a8b9270ab8c1b278073fd592e157a8963411f0deba006c58440b751d9328c8"
+  },
+  {
+    "source_id": "SRC0419",
+    "role": "DI_2002.tif",
+    "sha256": "e95ac4a4c9388e81825508cb9f95b65ac5c27b5177b22dc29672c1acc84243ee"
+  },
+  {
+    "source_id": "SRC0420",
+    "role": "DI_2003.tif",
+    "sha256": "80cca1cf6ed8758e40b345effaa5314a66df62c611a3d06bde4b89ca25697a12"
+  },
+  {
+    "source_id": "SRC0421",
+    "role": "DI_2004.tif",
+    "sha256": "24ae4235f3d149d3a02f5887d250c01803c6db2c72852bac87fef23dfa8e8c36"
+  },
+  {
+    "source_id": "SRC0422",
+    "role": "DI_2005.tif",
+    "sha256": "7f22c2e92b85c107f5483ca593cb8fd0fbccefce09c2089e7eb7a918a0c4b643"
+  },
+  {
+    "source_id": "SRC0423",
+    "role": "DI_2006.tif",
+    "sha256": "d89f72c4be1f4ae3fd52ddcc373e73d6e245fa62d7b3e34d0511095aa0b4944d"
+  },
+  {
+    "source_id": "SRC0424",
+    "role": "DI_2007.tif",
+    "sha256": "65177fd1d9d0958a7da4c60bac3faf72e57ef2317f741cb210fc369b22f9dd19"
+  },
+  {
+    "source_id": "SRC0425",
+    "role": "DI_2008.tif",
+    "sha256": "15dc85d9c640bc55a6b75fffdb5a6121e55589294f730e170a8f6152d033601d"
+  },
+  {
+    "source_id": "SRC0426",
+    "role": "DI_2009.tif",
+    "sha256": "edc9b35a3e18a0fef0e636ce52cbbf1561aba352aa6b0763d3db7f1be0c61f6d"
+  },
+  {
+    "source_id": "SRC0427",
+    "role": "DI_2010.tif",
+    "sha256": "73d06f9606f24475cbcc42f7eb2c69e0e6fa0b91704747373b6cbac4c665049b"
+  },
+  {
+    "source_id": "SRC0428",
+    "role": "DI_2011.tif",
+    "sha256": "a7169b82071d16a137eba72f8fd66b19ca2695259af37a29495521db1e16fafa"
+  },
+  {
+    "source_id": "SRC0429",
+    "role": "DI_2012.tif",
+    "sha256": "27ca80e7703e4862af0d2c6d155c7a38465c4614b54d51924752bfbacf3b6bf5"
+  },
+  {
+    "source_id": "SRC0430",
+    "role": "DI_2013.tif",
+    "sha256": "67b350111662a6b80fa449468238205949af9080ec74f25233e4388967d42de1"
+  },
+  {
+    "source_id": "SRC0431",
+    "role": "DI_2014.tif",
+    "sha256": "c2d82d23ed03816a0df32248908b5ce7ad4f303833619573a6be56e8cd56e574"
+  },
+  {
+    "source_id": "SRC0432",
+    "role": "DI_2015.tif",
+    "sha256": "56d9201916b116ecc5110dc5e57531d8870b408c1629a5aa36237036b2d76a18"
+  },
+  {
+    "source_id": "SRC0433",
+    "role": "DI_2016.tif",
+    "sha256": "f59c267e7557374c00e14f1249e2fa3f9a1341e2235f4455faa21c5efc386833"
+  },
+  {
+    "source_id": "SRC0434",
+    "role": "DI_2017.tif",
+    "sha256": "7156e1ad2d6eb76aa2ee614fda04fc4ca256bcf97b32a2c5738ce83ba6c9fbb0"
+  },
+  {
+    "source_id": "SRC0435",
+    "role": "DI_2018.tif",
+    "sha256": "16663eca402d9e0c565d01137de6a3aa39ca220b3e8bfd9a5d88cf86a2156e2b"
+  },
+  {
+    "source_id": "SRC0436",
+    "role": "DI_2019.tif",
+    "sha256": "97970cdf83d42bc42f0ac76a6a1f703396e5191ffd8a8a4277b1d2b3cedd7ef4"
+  },
+  {
+    "source_id": "SRC0437",
+    "role": "DI_2020.tif",
+    "sha256": "aa0a0acb3b36812f67b9e1481f81fc198e83929670ebd1813dcf87f788ce9324"
+  },
+  {
+    "source_id": "SRC0438",
+    "role": "DI_2021.tif",
+    "sha256": "cfd2396b43b414c622e59411b9000273f32c5481f16fc81882e105fcaf23c15d"
+  },
+  {
+    "source_id": "SRC0439",
+    "role": "delta_DSI_with_minus_without_NPV.tif",
+    "sha256": "ff66fe3c2de7238964617fd65689e2571dd6ecca2391875f597259cbdf074479"
+  },
+  {
+    "source_id": "SRC0440",
+    "role": "delta_slope_with_minus_without_NPV.tif",
+    "sha256": "441d06abc2c1d9ec6039b82ebbd58fd547596907fd3f02dbd9585c9e7ed057b9"
+  },
+  {
+    "source_id": "SRC0441",
+    "role": "DSI_class_without_NPV.tif",
+    "sha256": "aed00c4032a98a6504b8e2d539da7f29a35d7e26bfb6cacdf5757d759ae9b873"
+  },
+  {
+    "source_id": "SRC0442",
+    "role": "DSI_class_with_NPV.tif",
+    "sha256": "5bfa48938613690a1a93a6ef3a4da22850ca91de9313a291efe8e20761b58b3e"
+  },
+  {
+    "source_id": "SRC0443",
+    "role": "DSI_mean_without_NPV.tif",
+    "sha256": "c11072e36997b783d3ff1d22c6192072f55d01c53615ba355452215d86c275b9"
+  },
+  {
+    "source_id": "SRC0444",
+    "role": "DSI_mean_with_NPV.tif",
+    "sha256": "747b167c22850d2e44d4d50d24d1388de049e80770ae34343ec8b7344360197d"
+  },
+  {
+    "source_id": "SRC0445",
+    "role": "DSI_pvalue_without_NPV.tif",
+    "sha256": "efb5cb21c6a1b09c708b2e00f41df1eee3c6cbed23c6a45a25618f47ff64e66a"
+  },
+  {
+    "source_id": "SRC0446",
+    "role": "DSI_pvalue_with_NPV.tif",
+    "sha256": "6b3b82f95024a125241906a46a889974d2a0f2301a8d890c80b02e8c3255d49b"
+  },
+  {
+    "source_id": "SRC0447",
+    "role": "DSI_slope_without_NPV.tif",
+    "sha256": "47e44edf86f097c9362921ca5d4ece804bba95adfb1e9029ac7de34f8a7171e0"
+  },
+  {
+    "source_id": "SRC0448",
+    "role": "DSI_slope_with_NPV.tif",
+    "sha256": "274ebb72b10dc50b315894359d19c80923f46566f62007cb43f29bccbc1383ae"
+  },
+  {
+    "source_id": "SRC0449",
+    "role": "DSI_class.tif",
+    "sha256": "c7fe479a46c59611abe5d1d7b6cf4ffe60041a38ddcc03b52fa180e56eaf2202"
+  },
+  {
+    "source_id": "SRC0450",
+    "role": "DSI_pvalue.tif",
+    "sha256": "6e4a15001605e63a2f78574da5a4255472286296ffdc68d023d727549af2e4f0"
+  },
+  {
+    "source_id": "SRC0451",
+    "role": "DSI_slope.tif",
+    "sha256": "a99b2a8600d026c55c65d077c97ccd49bd546668e110c47dcd2ab22a03a13151"
+  },
+  {
+    "source_id": "SRC0452",
+    "role": "DI_2001.tif",
+    "sha256": "bea2d61243d600f51ec78a42b968eb24ac4ddf4a04c4009178ac83734fc8af01"
+  },
+  {
+    "source_id": "SRC0453",
+    "role": "DI_2002.tif",
+    "sha256": "4dae945a48d9f4b7d822e1f7842f6d9d96cce6201a4fc9d2e21f0c9c826c8e0d"
+  },
+  {
+    "source_id": "SRC0454",
+    "role": "DI_2003.tif",
+    "sha256": "73cadd85a7e79d785b83e8e34a5803a6209523b05985253f4e58091ea90fef61"
+  },
+  {
+    "source_id": "SRC0455",
+    "role": "DI_2004.tif",
+    "sha256": "79a1cd237c96468707e43bc31b4cb7418fe0b6cb87c66cc39477aa920e04633a"
+  },
+  {
+    "source_id": "SRC0456",
+    "role": "DI_2005.tif",
+    "sha256": "e287a818785a1c0a922072bc3c2c3e89522871d27e257441ce080d7a0e446c5e"
+  },
+  {
+    "source_id": "SRC0457",
+    "role": "DI_2006.tif",
+    "sha256": "3a379af83e93716e17be341961f60c7ecaf94969ff96cfd0ec6ba65c130ed8a5"
+  },
+  {
+    "source_id": "SRC0458",
+    "role": "DI_2007.tif",
+    "sha256": "db5a5a1348e3e93d58cca1ed87c9cfbc757156e88509186bde6e1642dceb440b"
+  },
+  {
+    "source_id": "SRC0459",
+    "role": "DI_2008.tif",
+    "sha256": "594a37ecbe39de2d486b616da4ddcd80ac65fc92c9473adfff441f6c29844ffd"
+  },
+  {
+    "source_id": "SRC0460",
+    "role": "DI_2009.tif",
+    "sha256": "d9fbf43c5f6d536358388554b338387496f176faa53ff315a840ba83f131fc28"
+  },
+  {
+    "source_id": "SRC0461",
+    "role": "DI_2010.tif",
+    "sha256": "b8d40119238beb13d4425f686787d251db4d75f5c3d3b2f3f5160421728cbf3e"
+  },
+  {
+    "source_id": "SRC0462",
+    "role": "DI_2011.tif",
+    "sha256": "809bdd37cf31b7808433dc6bc807850444763a5f4e37127fe745da394059995b"
+  },
+  {
+    "source_id": "SRC0463",
+    "role": "DI_2012.tif",
+    "sha256": "98ab18505456011c83226f3551c1651c963c27569b4be712e47f049df9441447"
+  },
+  {
+    "source_id": "SRC0464",
+    "role": "DI_2013.tif",
+    "sha256": "333dd51dad37794ca54ecb67a0d19b565042cc7f91a72b1ac030cc8b82857c6a"
+  },
+  {
+    "source_id": "SRC0465",
+    "role": "DI_2014.tif",
+    "sha256": "8c2843aa996dd2ac26b8ff2c2b3251d6533a0622ac21d46f34fc2d8e8f3af69b"
+  },
+  {
+    "source_id": "SRC0466",
+    "role": "DI_2015.tif",
+    "sha256": "63ad7962b4fd0b712624ae184649d85af8477e33d0058d67514c13d166916751"
+  },
+  {
+    "source_id": "SRC0467",
+    "role": "DI_2016.tif",
+    "sha256": "f87865bfcb6d253cadecfd87cb889f457213930def2399769a7cef16325f05f6"
+  },
+  {
+    "source_id": "SRC0468",
+    "role": "DI_2017.tif",
+    "sha256": "68f41264d3e76192080b2b4a68bbe87f0da2c34aae3fd9be2705a83d6db9d987"
+  },
+  {
+    "source_id": "SRC0469",
+    "role": "DI_2018.tif",
+    "sha256": "604088435202d80cd9df447b8464a1cca8f0cc9898a1ba4d9be8491fa8dcdaa0"
+  },
+  {
+    "source_id": "SRC0470",
+    "role": "DI_2019.tif",
+    "sha256": "1abe3645cb811024f881746ee269d8ad9261199526a3f42090ed5a90f5b52393"
+  },
+  {
+    "source_id": "SRC0471",
+    "role": "DI_2020.tif",
+    "sha256": "81dea8d12a1ea78902afbcd0f22d6a50d129cd55878d6db06e8ddc5cdbff0870"
+  },
+  {
+    "source_id": "SRC0472",
+    "role": "DI_2021.tif",
+    "sha256": "1a47a168a40bf3fc90dce3e890475fc45a710680dc9e5e82de14fa7615919516"
+  },
+  {
+    "source_id": "SRC0473",
+    "role": "DI_2001.tif",
+    "sha256": "d5af38cecb972a18f7153007b398136bf3d08ff00c8786a29845e813f793ff06"
+  },
+  {
+    "source_id": "SRC0474",
+    "role": "DI_2002.tif",
+    "sha256": "23c85b9e7b43162f1152065b550ad58f249b36ee76810c74ec55a5d0f9dfb844"
+  },
+  {
+    "source_id": "SRC0475",
+    "role": "DI_2003.tif",
+    "sha256": "88b2a35c3baf9b05cab92f685b8054232d3183df0d55018aba82a45826c3c9a5"
+  },
+  {
+    "source_id": "SRC0476",
+    "role": "DI_2004.tif",
+    "sha256": "43b2af28e6b8a2815be82dfc70f6176c0fc690e85cbf543f2c2b4d6d3e5226fc"
+  },
+  {
+    "source_id": "SRC0477",
+    "role": "DI_2005.tif",
+    "sha256": "1b3b3d4f1d7f17cc7db53ca80083057ea84ff250362b0c06ef7bb6ab557d48f3"
+  },
+  {
+    "source_id": "SRC0478",
+    "role": "DI_2006.tif",
+    "sha256": "19c3d3f777c3f73f8f9c4e87500ac3dd4a37f61522ef22c8157087d6ba155366"
+  },
+  {
+    "source_id": "SRC0479",
+    "role": "DI_2007.tif",
+    "sha256": "0d070a0c522496ec4aaf560cc42d9222cefcd26ec0255f1c2fac1a76c7d91bbc"
+  },
+  {
+    "source_id": "SRC0480",
+    "role": "DI_2008.tif",
+    "sha256": "ac8d98a6b831fb69cc747ca2cebef3730ddbd8fcfbf55085c50629f301ddd771"
+  },
+  {
+    "source_id": "SRC0481",
+    "role": "DI_2009.tif",
+    "sha256": "9c92b2e6246eede929d76f974842aa471ed61be4b70e2f647c33af9b0757fd3f"
+  },
+  {
+    "source_id": "SRC0482",
+    "role": "DI_2010.tif",
+    "sha256": "d7534a9adc507e3e7bb07cea89f0b8829e68ffdfcb51a2d48024eb1e4cab3f73"
+  },
+  {
+    "source_id": "SRC0483",
+    "role": "DI_2011.tif",
+    "sha256": "6aed51854a89827e9ff7a45966a910107af466e6651544a62ce51c6edeb005b5"
+  },
+  {
+    "source_id": "SRC0484",
+    "role": "DI_2012.tif",
+    "sha256": "9de6cd04bfe9b532570008db41aa58e0653ddaefdca144957deb1640a3d44b03"
+  },
+  {
+    "source_id": "SRC0485",
+    "role": "DI_2013.tif",
+    "sha256": "00b3f2c25d2d4f13ff5508ab126c3d0068ba96c7e95a75d85e37d66b352280e5"
+  },
+  {
+    "source_id": "SRC0486",
+    "role": "DI_2014.tif",
+    "sha256": "e6f2f37bcebd8627c272bf49f3feb93a743b8520914bdbfb8adde74798fed4a2"
+  },
+  {
+    "source_id": "SRC0487",
+    "role": "DI_2015.tif",
+    "sha256": "4bf41a0e51af2ddc99d9fefd76daca312287f4bcd6df0d7f94a4cfcbc43c0525"
+  },
+  {
+    "source_id": "SRC0488",
+    "role": "DI_2016.tif",
+    "sha256": "2036500b3bf86299c78c1eadef9c9ef63e76f9ff0c9373a22c471dc8896b49a1"
+  },
+  {
+    "source_id": "SRC0489",
+    "role": "DI_2017.tif",
+    "sha256": "60324155b7f35898791c023b0a4fec139466aa7b58634b4cf368833d339e68cd"
+  },
+  {
+    "source_id": "SRC0490",
+    "role": "DI_2018.tif",
+    "sha256": "c4d979d9bf657a20bec6f372b58e78d21db35d03ca6f0861e7e446a9717578d7"
+  },
+  {
+    "source_id": "SRC0491",
+    "role": "DI_2019.tif",
+    "sha256": "7f2f9dc3905f8951d4c3b491b8f46377ac7aa7748cf0ddda4f36bbf24f64cbc1"
+  },
+  {
+    "source_id": "SRC0492",
+    "role": "DI_2020.tif",
+    "sha256": "cb650bc5b586a6e007ac00087f4b9c22d6b5968682df49faeb9c698999a3cc62"
+  },
+  {
+    "source_id": "SRC0493",
+    "role": "DI_2021.tif",
+    "sha256": "1f528796c06d01cd74b969125480fbbee18619eac35f66e568315c669577868a"
+  },
+  {
+    "source_id": "SRC0494",
+    "role": "delta_DSI_with_minus_without_NPV.tif",
+    "sha256": "9138c9272db16b9969851aff617ffdb9134c65dc23dbc317983708481ac2378a"
+  },
+  {
+    "source_id": "SRC0495",
+    "role": "delta_slope_with_minus_without_NPV.tif",
+    "sha256": "a9dba12e81a451df7cd2aa1cb84be2967a2dc2f41e712fc5c23c385670eafc30"
+  },
+  {
+    "source_id": "SRC0496",
+    "role": "DSI_class_without_NPV.tif",
+    "sha256": "bd2c39027301e5c941bf2e5399bd7ccb995355947d9ad747789e1f599cdef31f"
+  },
+  {
+    "source_id": "SRC0497",
+    "role": "DSI_class_with_NPV.tif",
+    "sha256": "a922e3d57d4809945a10728f122b1ce60d0ad8e65d2dcac8be68e2bfa12d5de7"
+  },
+  {
+    "source_id": "SRC0498",
+    "role": "DSI_mean_without_NPV.tif",
+    "sha256": "1a450ad7ca1a03bda18a46eec7938bb4038a7843bc2a70f916e3597cede99fe2"
+  },
+  {
+    "source_id": "SRC0499",
+    "role": "DSI_mean_with_NPV.tif",
+    "sha256": "65ffea655ebcc186e1d5bb2d85ac77c23f3e48f9c811ee80d07cf58e494024fa"
+  },
+  {
+    "source_id": "SRC0500",
+    "role": "DSI_pvalue_without_NPV.tif",
+    "sha256": "e514b5095fefa81a7ff103f7af6dbbf9f857980df62cb186a191981d87126c91"
+  },
+  {
+    "source_id": "SRC0501",
+    "role": "DSI_pvalue_with_NPV.tif",
+    "sha256": "258d3ab091e0fe37df673fe760df16ec4855f92590a2419c366286bb6b5cab52"
+  },
+  {
+    "source_id": "SRC0502",
+    "role": "DSI_slope_without_NPV.tif",
+    "sha256": "efbed5d6c9cae92afe7aca92f718f81301f738d66fe7b58a38c4609390520595"
+  },
+  {
+    "source_id": "SRC0503",
+    "role": "DSI_slope_with_NPV.tif",
+    "sha256": "77898c06e3d7cff9e53853b2f81225b60c5ecefa0afb0c320fc44bea6625556e"
+  },
+  {
+    "source_id": "SRC0504",
+    "role": "DSI_class.tif",
+    "sha256": "afc239d58da5b52672e83a53defaf0d1eb61e414c3e53c4d3508b3cc8a7d87d8"
+  },
+  {
+    "source_id": "SRC0505",
+    "role": "DSI_pvalue.tif",
+    "sha256": "c3aa58c3216d7dea7600f1d721681209a381ba65b6b5d59a39e6f10ae8a89119"
+  },
+  {
+    "source_id": "SRC0506",
+    "role": "DSI_slope.tif",
+    "sha256": "fca01bca24f1d275bcdeb467e13f4b03bd5b1836c7e240b3d683d5033020be2d"
+  },
+  {
+    "source_id": "SRC0507",
+    "role": "delta_DSI_with_minus_without_NPV.tif",
+    "sha256": "95a74ae0b7187af57758bd4e6da595aef37d3977eaf11a3d06707adf7fc0962f"
+  },
+  {
+    "source_id": "SRC0508",
+    "role": "delta_slope_with_minus_without_NPV.tif",
+    "sha256": "095b82e09d66f1e8a9318d44ab80f130e4709e177b972b08f68aa3dd7f2ce73b"
+  },
+  {
+    "source_id": "SRC0509",
+    "role": "DSI_class_without_NPV.tif",
+    "sha256": "563feb0bf09d372887a074012f9bb0821aeb1d98aa8c124f57a7574789402879"
+  },
+  {
+    "source_id": "SRC0510",
+    "role": "DSI_class_with_NPV.tif",
+    "sha256": "caff6f67ee3a6a92e6f81fff31af402e553fef2a88a47c9348bc326a97ba8b38"
+  },
+  {
+    "source_id": "SRC0511",
+    "role": "DSI_mean_without_NPV.tif",
+    "sha256": "c4ab3b8d0cfbd96ab59c2d8416ae2c6627e29697f09a61fbb3d6bfb578d1e58d"
+  },
+  {
+    "source_id": "SRC0512",
+    "role": "DSI_mean_with_NPV.tif",
+    "sha256": "ac0e91451c37bbba5ca29374e1a134752892400c27558743def3d16b9c23863a"
+  },
+  {
+    "source_id": "SRC0513",
+    "role": "DSI_pvalue_without_NPV.tif",
+    "sha256": "ce578c87980818f6a245932f8c51ef11421c99255ab1a1739a5a2e6d0abe4fa5"
+  },
+  {
+    "source_id": "SRC0514",
+    "role": "DSI_pvalue_with_NPV.tif",
+    "sha256": "4c8c37b4c802f8e58d226a8dd53b91208ba027b0caf07da8b98aeb6996712c10"
+  },
+  {
+    "source_id": "SRC0515",
+    "role": "DSI_slope_without_NPV.tif",
+    "sha256": "85536aff5eda5ca62f366f8b3633a389c893a59e6f725989bf9c6ac5e737c209"
+  },
+  {
+    "source_id": "SRC0516",
+    "role": "DSI_slope_with_NPV.tif",
+    "sha256": "5c413a1963156854d022bb1c7124c0bae5c2b80261322de8ad882d35089b4388"
+  },
+  {
+    "source_id": "SRC0517",
+    "role": "DSI_class.tif",
+    "sha256": "f208bce28fb807279291d836e54499627ec31e228bbe254dd9e0f580d5b7579e"
+  },
+  {
+    "source_id": "SRC0518",
+    "role": "DSI_pvalue.tif",
+    "sha256": "5117e64d55f3e3739778e22908159d2064468a705b1a2fd10e6dec15f0f38918"
+  },
+  {
+    "source_id": "SRC0519",
+    "role": "DSI_slope.tif",
+    "sha256": "c2ece8cee1228b306094adece0e8811ac0d758a30959d99686eae77b120c6968"
+  },
+  {
+    "source_id": "SRC0520",
+    "role": "DI_2001.tif",
+    "sha256": "4c29780ad990a827ed8614f7f046eca7f2163204e5d8653872daac33e1df9182"
+  },
+  {
+    "source_id": "SRC0521",
+    "role": "DI_2002.tif",
+    "sha256": "fffa89b1621edea6bf317eb2da38454535ca8e43475ac303329a84e35450c131"
+  },
+  {
+    "source_id": "SRC0522",
+    "role": "DI_2003.tif",
+    "sha256": "2f93909a815b08fed4ae5d5ba33f64cfb7dcbc9463b6cf002d9d39d2b12d1161"
+  },
+  {
+    "source_id": "SRC0523",
+    "role": "DI_2004.tif",
+    "sha256": "d4869d8d12f3be6b51f1da228cb3022d5b4b8db9d1bb19bc0f54e07878ae2b8b"
+  },
+  {
+    "source_id": "SRC0524",
+    "role": "DI_2005.tif",
+    "sha256": "5844157e435ee5943205307961972770c6a43eb5c57c1ad0ef4c513e0c7e099c"
+  },
+  {
+    "source_id": "SRC0525",
+    "role": "DI_2006.tif",
+    "sha256": "6de0a81b148a70b66df1b32ad74b0ac6e4d21b5b2b212fc1f2cebea4491a5789"
+  },
+  {
+    "source_id": "SRC0526",
+    "role": "DI_2007.tif",
+    "sha256": "37546d491459f95b5b50da57db1738ae25387de0079ec2fc7d7d150d8a1428e5"
+  },
+  {
+    "source_id": "SRC0527",
+    "role": "DI_2008.tif",
+    "sha256": "fd8f284f81e9ef11faa2f3865025dbfd8c169a4e5e06abd919631291ba771045"
+  },
+  {
+    "source_id": "SRC0528",
+    "role": "DI_2009.tif",
+    "sha256": "997c7e7653c9c902033eb40abf9168db39d362a0586e3cc045d7889be47df7be"
+  },
+  {
+    "source_id": "SRC0529",
+    "role": "DI_2010.tif",
+    "sha256": "20c148d8a9acae70d1fd536b3e6e14f9a29b380675ff0921ca57a41706d3b534"
+  },
+  {
+    "source_id": "SRC0530",
+    "role": "DI_2011.tif",
+    "sha256": "20446596c55aa724b1f52833776052bfcd1fb0c42989a0caf8a69a980ffb110c"
+  },
+  {
+    "source_id": "SRC0531",
+    "role": "DI_2012.tif",
+    "sha256": "9ab56974dc611214c2262cd1b29f066a2e729b49d7382dc35a3aa7b77313eb65"
+  },
+  {
+    "source_id": "SRC0532",
+    "role": "DI_2013.tif",
+    "sha256": "9e4592359f45c002150bf8e0ff38c018dca85c3cd83ce59088baf45926ece477"
+  },
+  {
+    "source_id": "SRC0533",
+    "role": "DI_2014.tif",
+    "sha256": "09917c6b9a9bf77ad5159de41d9c57c87620e71dc0e0c7b3bc1051a4a9078675"
+  },
+  {
+    "source_id": "SRC0534",
+    "role": "DI_2015.tif",
+    "sha256": "0d783a616fd10817ec4a559eb2299420d9e71b0527da67a15ccd58ef08730279"
+  },
+  {
+    "source_id": "SRC0535",
+    "role": "DI_2016.tif",
+    "sha256": "9cf42587e6997368e3534eccedef363e9507a790673a1f8610171f8b5e446558"
+  },
+  {
+    "source_id": "SRC0536",
+    "role": "DI_2017.tif",
+    "sha256": "9d2b8d7080abc49c69b1c43b0471ea60bce68a5e970120e7dc5d323b90855398"
+  },
+  {
+    "source_id": "SRC0537",
+    "role": "DI_2018.tif",
+    "sha256": "13667e4ed31eb71a8eb6251b143aa11edae3aecb7cdf1d1ff7f7c7abb78a1dba"
+  },
+  {
+    "source_id": "SRC0538",
+    "role": "DI_2019.tif",
+    "sha256": "9ce182beaea56e5b2755bf0b8bdbc705aa34a392db9ee21d561011fcd1cbd3ec"
+  },
+  {
+    "source_id": "SRC0539",
+    "role": "DI_2020.tif",
+    "sha256": "3ee62f5a4dea8cf4c7529d83f8506fb779c3c4671c3017c0fbca1a5c3e74b4ea"
+  },
+  {
+    "source_id": "SRC0540",
+    "role": "DI_2021.tif",
+    "sha256": "42459822f4065893750a0a7f715e9deac882427636420501a71fdb526090b28f"
+  },
+  {
+    "source_id": "SRC0541",
+    "role": "DI_2001.tif",
+    "sha256": "d54080ab4a249975b25399c704eb142ea6ab734ad70ce25e71b5b993e42581fc"
+  },
+  {
+    "source_id": "SRC0542",
+    "role": "DI_2002.tif",
+    "sha256": "b7f0ddd1081a79afb66525b8e00fc57d96fff0da7903fcb8705d0886d83606e5"
+  },
+  {
+    "source_id": "SRC0543",
+    "role": "DI_2003.tif",
+    "sha256": "0b7f2695c8881ebb4d750f683a73678fc83332114c61c508907b775769016c8b"
+  },
+  {
+    "source_id": "SRC0544",
+    "role": "DI_2004.tif",
+    "sha256": "43e898967a4ecb85f88b804c77d6b183e047701ced08561c8d7827d5320b67e6"
+  },
+  {
+    "source_id": "SRC0545",
+    "role": "DI_2005.tif",
+    "sha256": "1656dca8925e3e9aea46faf67e193b28dead5a7ce9f4a195fe105b5db1844b5d"
+  },
+  {
+    "source_id": "SRC0546",
+    "role": "DI_2006.tif",
+    "sha256": "5299f65a37a7ff294fba804e0a5d9901416ed531c43fe4743e332b9587225ddb"
+  },
+  {
+    "source_id": "SRC0547",
+    "role": "DI_2007.tif",
+    "sha256": "4da475709a8c2c3fae0d65033283295d8b703669636e64275207d8b5cf8a126c"
+  },
+  {
+    "source_id": "SRC0548",
+    "role": "DI_2008.tif",
+    "sha256": "0f4f42762d4ffc380b30957203272715c4f7f7c581e480dd98b872b6fb035b05"
+  },
+  {
+    "source_id": "SRC0549",
+    "role": "DI_2009.tif",
+    "sha256": "e8dd1d5e98658aff6071e95248165794c1b4ddb8507a7239942be3a8ff66cb3e"
+  },
+  {
+    "source_id": "SRC0550",
+    "role": "DI_2010.tif",
+    "sha256": "80a69135f7c16af7283ef927ca76c8c6b059536c02ba4ed2918689166dd7108a"
+  },
+  {
+    "source_id": "SRC0551",
+    "role": "DI_2011.tif",
+    "sha256": "8832d99fa57ba61bdd71a6168f54239899b9f0a82c479456e1ab469be46f46c2"
+  },
+  {
+    "source_id": "SRC0552",
+    "role": "DI_2012.tif",
+    "sha256": "0f8dc27d0c8f939a7c2974deafb3dfd79f36808b321a72f79271ef5f501ec4d2"
+  },
+  {
+    "source_id": "SRC0553",
+    "role": "DI_2013.tif",
+    "sha256": "124530fb6fb5a8749d04e12a0d9a9e992c816968319068fa7b59288e441573dc"
+  },
+  {
+    "source_id": "SRC0554",
+    "role": "DI_2014.tif",
+    "sha256": "792b9443a46678bde22163ab9fd92d73d6094e4eeac7eb24d3312625630bbdc0"
+  },
+  {
+    "source_id": "SRC0555",
+    "role": "DI_2015.tif",
+    "sha256": "4aa7af5f6afa3f564eb881d8e24901fab2ec7b9c9c9551f430c745de66be0410"
+  },
+  {
+    "source_id": "SRC0556",
+    "role": "DI_2016.tif",
+    "sha256": "6936492b785fa94545d6183e46c7bc2744e651a78ec0903c571a93dcb75a8876"
+  },
+  {
+    "source_id": "SRC0557",
+    "role": "DI_2017.tif",
+    "sha256": "cc85346a2aa0120c475d0089a49646b3ce23568249817ef3bb1eb9584e85d47b"
+  },
+  {
+    "source_id": "SRC0558",
+    "role": "DI_2018.tif",
+    "sha256": "fbd98aa6699da08c22a9cdf2b8638a0be0c23062307efa2ac186d488508e6372"
+  },
+  {
+    "source_id": "SRC0559",
+    "role": "DI_2019.tif",
+    "sha256": "033bf234f5299ed8c59e7801a5ec5f85bc95efc7aa0baed227870e0b27e57723"
+  },
+  {
+    "source_id": "SRC0560",
+    "role": "DI_2020.tif",
+    "sha256": "614b27748db78d702c8220600d4430aa29c7068e56abc6cf05ef39f8ccae5367"
+  },
+  {
+    "source_id": "SRC0561",
+    "role": "DI_2021.tif",
+    "sha256": "328a95b778f886029db8ec88d3e744766140d544bda079175bfca351bcaf9b90"
+  },
+  {
+    "source_id": "SRC0562",
+    "role": "statistics.json",
+    "sha256": "b98a66767bab711bca881eb4427f3dfb1f8c889c0d6d35a754d5668912af9355"
+  },
+  {
+    "source_id": "SRC0563",
+    "role": "BS_2001_2021_BH_adjusted_p.tif",
+    "sha256": "cfd8322147c35b36dbbadfc75b3c39620bfcd3a09a24b39d9197352ee4034b8a"
+  },
+  {
+    "source_id": "SRC0564",
+    "role": "BS_2001_2021_D_state.tif",
+    "sha256": "7164b9969c68113706a33be468154460ec3c9ecfafe650bda9bc19916ba89566"
+  },
+  {
+    "source_id": "SRC0565",
+    "role": "BS_2001_2021_MK_p.tif",
+    "sha256": "8760840336ab99660f1d47db6f12e7ccb6755471b12409b38b2939d1c7f2775e"
+  },
+  {
+    "source_id": "SRC0566",
+    "role": "BS_2001_2021_sen_slope.tif",
+    "sha256": "e0ce457703f6ca45f0c9deeab14bf0dce9267fcecb5ef687c98f5d0c5f850fb4"
+  },
+  {
+    "source_id": "SRC0567",
+    "role": "DSI_2001_2021_BH_adjusted_p.tif",
+    "sha256": "4253e1cffd3dccfaad1b78adc1579a61ad97ae0b2ecb45786c7fc8d4de0dd399"
+  },
+  {
+    "source_id": "SRC0568",
+    "role": "DSI_2001_2021_D_state.tif",
+    "sha256": "3128a33bc15467c8c1ba026392e2ba9f24c03bede4fbd481e50acec7145b5436"
+  },
+  {
+    "source_id": "SRC0569",
+    "role": "DSI_2001_2021_MK_p.tif",
+    "sha256": "2eb3a3a0703079b2e1ec93ed8037a5567a935390c537f8769568a6c52a869d45"
+  },
+  {
+    "source_id": "SRC0570",
+    "role": "DSI_2001_2021_sen_slope.tif",
+    "sha256": "4c204563935927ac490b8c1dfd0c9d11a0e2475d859e4b7f7988cd075f5f9860"
+  },
+  {
+    "source_id": "SRC0571",
+    "role": "DSI_2004_2019_without_NPV_BH_adjusted_p.tif",
+    "sha256": "c576531635f66769acbcbc0f77dbba4dd994cb5e27651f8b4751333f7003fa2c"
+  },
+  {
+    "source_id": "SRC0572",
+    "role": "DSI_2004_2019_without_NPV_D_state.tif",
+    "sha256": "afcf6c97c10a3700975ef07afe2edc1111ebd3e041699f6ef49aadc546398037"
+  },
+  {
+    "source_id": "SRC0573",
+    "role": "DSI_2004_2019_without_NPV_MK_p.tif",
+    "sha256": "b98683f5c2f9605aa8accb1766872d3d719b17cd034876710047e9289419748c"
+  },
+  {
+    "source_id": "SRC0574",
+    "role": "DSI_2004_2019_without_NPV_sen_slope.tif",
+    "sha256": "28bc1460cd04f8243288ecf67296d187fd50f4a49a3d17b92d274c5aedff386b"
+  },
+  {
+    "source_id": "SRC0575",
+    "role": "DSI_2004_2019_with_NPV_BH_adjusted_p.tif",
+    "sha256": "75cd7015a521f06a5e0b85a9cfc11e5a2ceb37ceb3bbf3117d14cd83ab17bb74"
+  },
+  {
+    "source_id": "SRC0576",
+    "role": "DSI_2004_2019_with_NPV_D_state.tif",
+    "sha256": "cf66d30abd58115554e453ff93b5b5f658ea558c61f0e4951a7972858a97508d"
+  },
+  {
+    "source_id": "SRC0577",
+    "role": "DSI_2004_2019_with_NPV_MK_p.tif",
+    "sha256": "a6f61ad6ecebe0d6bf81fb3c962cab9408d83c709dcf8616fdf1238bfdc81c54"
+  },
+  {
+    "source_id": "SRC0578",
+    "role": "DSI_2004_2019_with_NPV_sen_slope.tif",
+    "sha256": "af579788b30666c92b7ed7cad8df3e10db6dba3a25aa3cdb0c57cf143fe91c2f"
+  },
+  {
+    "source_id": "SRC0579",
+    "role": "FVC_pathways_A_OLS.tif",
+    "sha256": "63680182e06862dea48954c3078d926579397670f87ae22d998765b50108a025"
+  },
+  {
+    "source_id": "SRC0580",
+    "role": "FVC_pathways_D_Sen_MK_BH.tif",
+    "sha256": "79d9678fee7a5ef1daad91c52def32f186e91ef7865600dc23158dde24b85688"
+  },
+  {
+    "source_id": "SRC0581",
+    "role": "NPV_2001_2021_BH_adjusted_p.tif",
+    "sha256": "c375df178c97ac80ef8bd0a4b1a0bc0d2b31dd69d71c5ccfa3b7bb6e34a7d005"
+  },
+  {
+    "source_id": "SRC0582",
+    "role": "NPV_2001_2021_D_state.tif",
+    "sha256": "f9a31058808618d8291a41ac363d60b728a6b6a3041573969da96d119277bd35"
+  },
+  {
+    "source_id": "SRC0583",
+    "role": "NPV_2001_2021_MK_p.tif",
+    "sha256": "736621afd4dbcd48e2fe3f8225161a9c82b41a9c1d2f076e0fbfe3dfe03a52e9"
+  },
+  {
+    "source_id": "SRC0584",
+    "role": "NPV_2001_2021_sen_slope.tif",
+    "sha256": "3259b418158274a7f2c27be68ba4aefb4d7f53fc799312d9d3d5757b10782107"
+  },
+  {
+    "source_id": "SRC0585",
+    "role": "PV_2001_2021_BH_adjusted_p.tif",
+    "sha256": "01806724fcf84e7399065548cf41ba3ea518baee434528be509d29fcb1443fed"
+  },
+  {
+    "source_id": "SRC0586",
+    "role": "PV_2001_2021_D_state.tif",
+    "sha256": "d76c1eaf6029f361b3fdff7bd16983b0ca777d8e834a751d517ae57b00c080cb"
+  },
+  {
+    "source_id": "SRC0587",
+    "role": "PV_2001_2021_MK_p.tif",
+    "sha256": "926e850865b28595d25386a0b1d03de9ca2f1abe7c34d0e28ad2d8f6048468aa"
+  },
+  {
+    "source_id": "SRC0588",
+    "role": "PV_2001_2021_sen_slope.tif",
+    "sha256": "2b7e261000a9d2fe1810302099bb7fcae34a1fc6470e8499c13f0086e616bf5d"
+  },
+  {
+    "source_id": "SRC0589",
+    "role": "external_consistency_A_D.csv",
+    "sha256": "4068d76856b42b849ab763a51322ab0a1a2f1ed396632927121c5c643b2e6f75"
+  },
+  {
+    "source_id": "SRC0590",
+    "role": "NPV_contrasts_A_D.csv",
+    "sha256": "adb7d6ec130ac2d0cafce8abbd1d167668e57b10fb8cc9b1b4fc425dc4205377"
+  },
+  {
+    "source_id": "SRC0591",
+    "role": "pathways_all27_A_D.csv",
+    "sha256": "87d591b4c95ab0d0f4b19868ff4c39f07e770f7d802768cdd4404a2f13cceb2c"
+  },
+  {
+    "source_id": "SRC0592",
+    "role": "trend_classification_A_D.csv",
+    "sha256": "3cb5a11cb972cff6aa0923021d2ac9d87a0e524ff86acb6e0f6b071dd0b34c2a"
+  },
+  {
+    "source_id": "SRC0593",
+    "role": "BS_2001_2021.npz",
+    "sha256": "6f9283c0bf6faf57c7e25ec6570c499eb3d581272d99d9490425f54fd792680c"
+  },
+  {
+    "source_id": "SRC0594",
+    "role": "DSI_2001_2021.npz",
+    "sha256": "9320fbc76b1b9b272a6f038427124411678322b963df37f0335636dd37f99fd6"
+  },
+  {
+    "source_id": "SRC0595",
+    "role": "DSI_2004_2019_without_NPV.npz",
+    "sha256": "875bb7914230dd7289d64a38806930b38a5c1a8750e3d42a9ce3852a3df0aa93"
+  },
+  {
+    "source_id": "SRC0596",
+    "role": "DSI_2004_2019_with_NPV.npz",
+    "sha256": "9e3f5bb2b4df8b1cee189c7a30e02a4928ce49ec316537caac57f65f764a1367"
+  },
+  {
+    "source_id": "SRC0597",
+    "role": "NPV_2001_2021.npz",
+    "sha256": "b66e39bac5d700e4137251efd27c76ee83166fde91e0abe0ba88442d234eada5"
+  },
+  {
+    "source_id": "SRC0598",
+    "role": "paired_bootstrap_A_OLS.npz",
+    "sha256": "40a165b8d07e09323ba017fb1d3dad275b4163f6d4d93ae956844810538dfbba"
+  },
+  {
+    "source_id": "SRC0599",
+    "role": "paired_bootstrap_D_Sen_MK_BH.npz",
+    "sha256": "601139f94f8b6e3fd70070ecf4c391f6b29746de654d46fc20728ff3e341b76c"
+  },
+  {
+    "source_id": "SRC0600",
+    "role": "PV_2001_2021.npz",
+    "sha256": "202c17b87efa1f05567b62d1f38e3981f9a56c1b286db0a05fb3059f6669d017"
+  },
+  {
+    "source_id": "SRC0601",
+    "role": "fvc_combination_alpha_0.01.tif",
+    "sha256": "2f891a9dfc67d8d1ef1df489ccdb8e5ffa926666add6b216d71253c176e17609"
+  },
+  {
+    "source_id": "SRC0602",
+    "role": "fvc_combination_alpha_0.1.tif",
+    "sha256": "1f303ca96a1514f6c98caf4b4e3f20cac007150fc21ec7139dbdcddf3aa483f5"
+  },
+  {
+    "source_id": "SRC0603",
+    "role": "fvc_significance_sensitivity_all27.csv",
+    "sha256": "632b0df80ab38bcacb86745be0727eb0e3562f7edc866b592f73e11e4897649a"
+  },
+  {
+    "source_id": "SRC0604",
+    "role": "FVC_significance_sensitivity.csv",
+    "sha256": "6bc9bea01bd258f97926feda78fc029414997e9036a1c6cb7783263d3f5d88a1"
+  },
+  {
+    "source_id": "SRC0605",
+    "role": "sdg_threshold_sensitivity_2004_2019.csv",
+    "sha256": "ef24ecae743bd2352f3d49f94fff6e849d3b73cf2fce8af4e1445c6f6139f6a3"
+  },
+  {
+    "source_id": "SRC0606",
+    "role": "spatial_scale_diagnostics_2004_2019.csv",
+    "sha256": "60a98e629f4ee779b845a8c63286f64c14f42bfee4498f0eaac70b051b6bbc84"
+  },
+  {
+    "source_id": "SRC0607",
+    "role": "source_reference",
+    "sha256": null,
+    "reference_sha256": "2fc5e47e236da01c17af445f5f73c89a1288ac5aa14694da089a5be34645d98b"
+  },
+  {
+    "source_id": "SRC0608",
+    "role": "source_reference",
+    "sha256": null,
+    "reference_sha256": "18f249026162a7f2590e59798c03ff18bbe251ad046fb4b64472b48b1c937f9f"
+  },
+  {
+    "source_id": "SRC0609",
+    "role": "source_reference",
+    "sha256": null,
+    "reference_sha256": "e5066b5512fcfc25188287b33960edc3cb394aad4b199eff2b4ce2fc8611feb5"
+  },
+  {
+    "source_id": "SRC0610",
+    "role": "Supplementary_Tables_S1_S2.xlsx",
+    "sha256": "358c1b192e1a03a01310b834815853fceead1de12c2d1bbeac54aeb2708114b5"
+  },
+  {
+    "source_id": "SRC0611",
+    "role": "Supplementary_Table_S3_Trend_Robustness.xlsx",
+    "sha256": "370770aef03aebb62bd0e51be2db1124c1c2f476982e5ccbd0929b9e3919e3d5"
+  },
+  {
+    "source_id": "SRC0612",
+    "role": "Albedo_stats.xlsx",
+    "sha256": "39f59833925844c7937c63f2a46a495a2d808a412f99058c83f4beccb3b0aff0"
+  },
+  {
+    "source_id": "SRC0613",
+    "role": "DFI_stats.xlsx",
+    "sha256": "b83e243b8f336339e4c083722a020e638859cb8f652b9bc89af6557bc16a24c0"
+  },
+  {
+    "source_id": "SRC0614",
+    "role": "LST_stats.xlsx",
+    "sha256": "55d8cebebf54cdc9ef9ff4d6af23afbbe144635dce62ca691806b86e582032c8"
+  },
+  {
+    "source_id": "SRC0615",
+    "role": "MSAVI_stats.xlsx",
+    "sha256": "e0074f67a7937fd916cfac499ae6609ad43f0d7158b80ff142ee3f2ea67d0196"
+  },
+  {
+    "source_id": "SRC0616",
+    "role": "SMI_stats.xlsx",
+    "sha256": "82025b5171f1b48ce6c3ceccc0cfe5d12aeb2ac73af9cef10e3b5dbf8084f6dc"
+  },
+  {
+    "source_id": "SRC0617",
+    "role": "TGSI_stats.xlsx",
+    "sha256": "8b189762fea5ad03821c596033c6d183a9fec6e3d1b8da1f659e36d1cd139637"
+  },
+  {
+    "source_id": "SRC0618",
+    "role": "Wet_stats.xlsx",
+    "sha256": "5258ed818958228013b3fc1623fea3fef053ec0866979c1963a39eacbabb5bdb"
+  },
+  {
+    "source_id": "SRC0619",
+    "role": "03_compute_trend_D.py",
+    "sha256": "c77b2a4239c02c6dc39c3da98b118d0a4b3cbfc2b1818d40f8497161ba093d52"
+  },
+  {
+    "source_id": "SRC0620",
+    "role": "test_trend_numerics.py",
+    "sha256": "e23e334f9a663856a4e54f90d42cc3b4fe3e3ea051878e51db0fe3e323e4418c"
+  },
+  {
+    "source_id": "SRC0621",
+    "role": "trend_config.py",
+    "sha256": "ea2cf280d20e08f98d257a3193616ace92a0a12f4df3e318b1eca3a411f7adc9"
+  },
+  {
+    "source_id": "SRC0622",
+    "role": "trend_numeric.py",
+    "sha256": "d59a965367794d74af08a1f3b96feda43028e0f955db4b5891c56de42eb23bdb"
+  },
+  {
+    "source_id": "SRC0623",
+    "role": "00run_pipeline.py",
+    "sha256": "ab195445bff298b0bded1e3eba25730e45ca4eaa03970d8ab92bbccdd5d4f493"
+  },
+  {
+    "source_id": "SRC0624",
+    "role": "01_weights.py",
+    "sha256": "e83d880327288507cf29812922cf8fcdabe1741130f02d5384be6aca6ad992db"
+  },
+  {
+    "source_id": "SRC0625",
+    "role": "02_dsi.py",
+    "sha256": "9fdccd929e961f25be813cc103506e52e66d87b11e739e53ed0c89df21ff6eaf"
+  },
+  {
+    "source_id": "SRC0626",
+    "role": "03_evaluate.py",
+    "sha256": "4b759334e0068f6dc4044a01996f655df1a2bc1b545608eb1c31110044305ae8"
+  },
+  {
+    "source_id": "SRC0627",
+    "role": "04_report.py",
+    "sha256": "48d7ae29cf9eb8a672d5e043a4a78832575e48e5aeb6505e9278965ee3e88932"
+  },
+  {
+    "source_id": "SRC0628",
+    "role": "common.py",
+    "sha256": "8f8b1eed61dce678868c493bc01a503746fa5270300ed90e866d51d3b7cec9d3"
+  },
+  {
+    "source_id": "SRC0629",
+    "role": "config.py",
+    "sha256": "e8a31bcca3df7763ede58ed444a780ad327f38004c70c354259a94af09296663"
+  },
+  {
+    "source_id": "SRC0630",
+    "role": "test_numerics.py",
+    "sha256": "2cbafe72466c4695aaaaeb3429818844523692dbea5855a94de55226cb67267a"
+  },
+  {
+    "source_id": "SRC0631",
+    "role": "01_build_support_tables.py",
+    "sha256": "e9ecc6a61bed25b49734c7cdb0b7b8b0b2b285f58af5bb77c9f04f98787da122"
+  },
+  {
+    "source_id": "SRC0632",
+    "role": "04_build_trend_tables.py",
+    "sha256": "7b31f853430f0e3f8dd906f259844aacbc81c162f48ff862119d1754b8338523"
+  },
+  {
+    "source_id": "SRC0633",
+    "role": "05_trend_report.py",
+    "sha256": "21a370a43667accd4b80b3bcd55c914827119acfb13099d049ef243e1a2478a4"
+  },
+  {
+    "source_id": "SRC0634",
+    "role": "table_layouts.json",
+    "sha256": "78c24c9de5839dda604beccf2ec428bff090f74a7d37112f3cc2935a2502d33b"
+  }
+]

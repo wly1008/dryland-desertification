@@ -1,0 +1,99 @@
+{
+  "years": [
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021
+  ],
+  "monthly_source_years": [
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022
+  ],
+  "non_growing_season": "October of label year through April of following year",
+  "primary_statistic": "mean",
+  "resolution_degrees": 0.1,
+  "normalization_scale": 10000,
+  "dsi_direction": "higher means more desertification",
+  "primary_weighting": "fixed study-period G15 weights",
+  "primary_trend": "OLS slope; two-sided nominal P < 0.05",
+  "external_comparison_years": [
+    2004,
+    2019
+  ],
+  "lisa": {
+    "adjacency": "Queen; row-standardized",
+    "permutations": 999,
+    "base_seed": 20260818,
+    "local_significance": "BH FDR q < 0.05",
+    "local_seeds": {
+      "FAO-WOCAT": 20260821,
+      "JRC": 20261821,
+      "Trends.Earth": 20260821
+    },
+    "local_alternative": "directed"
+  },
+  "paired_bootstrap": {
+    "block_degrees": 5,
+    "replicates": 1999,
+    "base_seed": 20260913
+  },
+  "weight_sensitivity": {
+    "entropy_G": [
+      10,
+      15,
+      20
+    ],
+    "equal_weights": true
+  },
+  "trend_sensitivity": {
+    "A": "OLS, nominal P < 0.05",
+    "D": "Theil-Sen, Mann-Kendall, BH q < 0.05"
+  },
+  "cover_significance_thresholds": [
+    0.01,
+    0.05,
+    0.1
+  ],
+  "bootstrap_block_sizes_degrees": [
+    2.5,
+    5,
+    10
+  ]
+}

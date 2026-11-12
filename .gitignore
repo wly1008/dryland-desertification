@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+*.log
+study_workflow/**/data/
+study_workflow/01_upstream_reference/vrt/
+study_workflow/01_upstream_reference/rebuilt_data/
+study_workflow/05_outputs/
+study_workflow/06_verification/
